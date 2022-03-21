@@ -29,3 +29,9 @@ Project Structure
 - The controller mediates between the model and view
     - Model folder contains the MongoDB data. This will perform the data validation, process data, create mongo scheme
     - Controller folder will deal with the user request for resources from the server. This will contain the functions for the resources needed
+
+Run project
+- Type on terminal "npm start".
+- This will kick start nodemon and you will have a link to the localhost page 5033.
+- press ctrl and rightclick to open up the webpage
+
