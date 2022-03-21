@@ -1,22 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Love+Light&family=Poppins:ital,wght@0,100;0,400;1,200&family=Raleway:wght@300&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
 
 :root{
-    --dark: black;
+    --dark: rgb(20, 19, 19);
     --light: grey;
     --border: grey;
-    --border-btn: grey;
+    --border-btn: rgb(44, 87, 168);
 }
 
 *{
-    padding: 0;
+    padding: 1px;
     margin: 0;
     box-sizing: border-box;
 }
 
 a {
     text-decoration: none;
-    font-family: 'Source Sans Pro', sans-serif;
-
+    font-style: black;
 }
 
 .container{
@@ -25,14 +24,17 @@ a {
     margin-right: auto;
 }
 
-.nav-brand{
-    font-size: .1.5em;
-    font-weight: bold;    
+#header nav{
+    border-radius: 10px;
+    background-color: rgb(102, 102, 194);
+    padding: 3px 0;
+    width: 100%;
 }
-
-.d-flex{
-    display: flex;
-    flex-wrap: wrap;
+.nav-brand{
+    font-size: 40px;  
+}
+.text-dark{
+    color: var(--dark);
 }
 
 .justify-between{
@@ -45,13 +47,12 @@ a {
 
 .border-shadow{
     border: 1px solid var(--border-btn);
-    box-shadow: 1px 3px 10px;
+    box-shadow: 3px 3px 10px;
 }
-
-.text-dark{
-    color: var(--dark);
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
 }
-
 .inline{
     display: inline-block;
 }
@@ -66,54 +67,15 @@ a {
     background-clip: text;
 }
 
-#header nav{
-    background-color: aqua;
-    padding: .1em 0;
-    width: 100%;
-}
-
 #site-main{
     margin-top: 20px;
-    font-family: 'Source Sans Pro', sans-serif;
 }
 
 #site-main .container .box-nav >a{
-    font-size: .1em;
+    font-size: 10px;
     padding: 5px 1px
 }
 
 #site-main .container .form{
     margin: 3px 0px;
-}
-
-table{
-    border-spacing: 0px;
-    width: 100%;
-
-}
-
-.table td, .table th{
-    padding: 10px;
-    vertical-align: top;
-    text-align: center;
-    border-top: 1px solid var(--border);
-}
-
-.table td>a.btn{
-    padding: .3em .1em;
-    font-size: .1.1em;
-    margin: 0 .2em;
-}
-
-.table tr:hover{
-    background-color: aquamarine;
-}
-.table tr:hover td>a{
-    box-shadow: none;
-}
-
-.table .thead-dark th{
-    color: antiquewhite;
-    background-color: var(--dark);
-    border-color: beige;
 }

@@ -1,0 +1,31 @@
+table{
+    border-spacing: 0px;
+    width: 100%;
+}
+
+.table td, .table th{
+    padding: 10px;
+    vertical-align: top;
+    text-align: center;
+    border-top: 1px solid var(--border);
+}
+
+.table td>a.btn{
+    padding: 8px 8px;
+    font-size: 15px;
+    margin: 0 10px;
+}
+
+.table tr:hover{
+    background-color: rgba(184, 38, 38, 0.705);
+}
+.table tr:hover td>a{
+    box-shadow: none;
+    background-color: whitesmoke;
+}
+
+.table .thead-dark th{
+    color: antiquewhite;
+    background-color: var(--dark);
+    border-color: whitesmoke;
+}
