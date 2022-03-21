@@ -23,3 +23,9 @@ Installations
 - dot env - this modules allows me to seperate the "secret" from the source code. This is for future development of the project where I can have other people collaborating with me but not sharing passcodes, just the code.
 - A module I came across from research the allows easier request access to the library in express applications
 
+Project Structure
+- Using the MVC (model, view, controller) pattern design
+- This helps separate the the application data and the business logic from the views.
+- The controller mediates between the model and view
+    - Model folder contains the MongoDB data. This will perform the data validation, process data, create mongo scheme
+    - Controller folder will deal with the user request for resources from the server. This will contain the functions for the resources needed
