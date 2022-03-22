@@ -2,7 +2,6 @@ const express = require('express');
 const dotenv = require('dotenv');
 const morgan = require('morgan');
 const bodyparser = require('body-parser');
-//only use this for when the generic views folder is relabelled to ie "public"
 const path = require('path');
 
 const app = express();
@@ -24,8 +23,9 @@ app.set("view engine", "ejs")
 
 //to load the assets folder with all the custom styling and images
 app.use('/css',express.static(path.resolve(__dirname,"/assets/css")))
-app.use('/js',express.static(path.resolve(__dirname,"assets/js")))
 app.use('/img',express.static(path.resolve(__dirname,"assets/img")))
+app.use('/js',express.static(path.resolve(__dirname,"assets/js")))
+
 
 app.get('/', (req,res)=>{
     res.render("home");
