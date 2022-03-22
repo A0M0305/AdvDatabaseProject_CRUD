@@ -35,5 +35,3 @@ Run project
 - This will kick start nodemon and you will have a link to the localhost page 5033.
 - press ctrl and rightclick to open up the webpage
 
-Extensions needed
--Live Server

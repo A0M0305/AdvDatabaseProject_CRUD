@@ -1,9 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Love+Light&family=Poppins:ital,wght@0,100;0,400;1,200&family=Raleway:wght@300&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
-
 :root{
     --dark: rgb(20, 19, 19);
     --light: grey;
-    --border: grey;
+    --border: rgba(58, 57, 57, 0.219);
     --border-btn: rgb(44, 87, 168);
 }
 
@@ -78,4 +76,24 @@ a {
 
 #site-main .container .form{
     margin: 3px 0px;
+}
+@media only screen and (max-width:1024px){
+    table, thead,tbody,th,td,tr{
+        display: block;
+    }
+
+    thead tr{
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+    }
+
+    tr {
+        border: 1px solid var(--border);
+    }
+
+    td{
+        border: none;
+        position: relative;
+    }
 }
