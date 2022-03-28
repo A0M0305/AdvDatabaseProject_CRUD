@@ -26,17 +26,7 @@ app.use('/css',express.static(path.resolve(__dirname,"assets/css")))
 app.use('/img',express.static(path.resolve(__dirname,"assets/img")))
 app.use('/js',express.static(path.resolve(__dirname,"assets/js")))
 
-
-app.get('/', (req,res)=>{
-    res.render("home");
-})
-
-app.get('/add_user', (req,res)=>{
-    res.render("add_user");
-})
-
-app.get('/update_user', (req,res)=>{
-    res.render("update_user");
-})
+//Moved the routes to render web pages to server -> routes folder.
+app.use('/', require('./server/routes/router'))
 
 app.listen(PORT,()=>{console.log(`Server is running on http://localhost:${PORT}`)});
