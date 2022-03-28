@@ -4,6 +4,8 @@ const morgan = require('morgan');
 const bodyparser = require('body-parser');
 const path = require('path');
 
+const connectDB = require('./server/mongoDB/connection');
+
 const app = express();
 
 //use the confid file to change the port number, if the config number is in use it will use the default 8080
@@ -12,6 +14,8 @@ const PORT= process.env.PORT||8080
 
 //to log/see the request in the terminal
 app.use(morgan('tiny'));
+
+connectDB();
 
 //parse request to body-parser
 app.use(bodyparser.urlencoded({extended:true}))
