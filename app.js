@@ -31,4 +31,8 @@ app.get('/', (req,res)=>{
     res.render("home");
 })
 
+app.get('/add_user', (req,res)=>{
+    res.render("add_user");
+})
+
 app.listen(PORT,()=>{console.log(`Server is running on http://localhost:${PORT}`)});
