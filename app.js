@@ -22,7 +22,7 @@ app.set("view engine", "ejs")
 //app.set("views", path.resolve(__dirname,"public"))
 
 //to load the assets folder with all the custom styling and images
-app.use('/css',express.static(path.resolve(__dirname,"/assets/css")))
+app.use('/css',express.static(path.resolve(__dirname,"assets/css")))
 app.use('/img',express.static(path.resolve(__dirname,"assets/img")))
 app.use('/js',express.static(path.resolve(__dirname,"assets/js")))
 
