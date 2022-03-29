@@ -4,6 +4,7 @@ const morgan = require('morgan');
 const bodyparser = require('body-parser');
 const path = require('path');
 
+//looks for the database connection files...
 const connectDB = require('./server/mongoDB/connection');
 
 const app = express();
@@ -15,6 +16,7 @@ const PORT= process.env.PORT||8080
 //to log/see the request in the terminal
 app.use(morgan('tiny'));
 
+//This imports the databse url to connect to mongo
 connectDB();
 
 //parse request to body-parser

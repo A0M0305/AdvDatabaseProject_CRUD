@@ -1,6 +1,19 @@
+const axios=require('axios');
+const { response } = require('express');
+
+
 //these will allow me to render to different files.
 exports.homeRoutes=(req,res) => {
-    res.render("home");
+    //making a GET request from MongoDB users
+    axios.get('http://localhost:5033/api/users')
+        .then(function(response){
+            console.log(response.data)
+            res.render("home",{users:response.data});
+        })
+        .catch(err =>{
+            res.send(err)
+        })
+    
 }
 
 exports.add_user=(req,res) => {
