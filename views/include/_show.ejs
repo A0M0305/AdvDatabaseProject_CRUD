@@ -1,5 +1,10 @@
 <% for(var i=0;i < users.length;i++) { %>
 <tr>
+    <td>
+        <a href="/update_user?id=<%=users[i]._id%>" class="btn border-shadow update">
+            <span class="text-gradient"><i class="fa-solid fa-user-pen"></i></span>
+        </a>
+    </td>
     <td><%= i %></td>
     <td><%= users[i].name %></td>
     <td><%= users[i].lname %></td>
@@ -10,12 +15,10 @@
     <td><%= users[i].area %></td>
     <td><%= users[i].status %></td>
     <td>
-        <a href="/update_user?id=<%=users[i]._id%>" class="btn border-shadow update">
-            <span class="text-gradient"><i class="fa-solid fa-user-pen"></i></span>
-        </a>
         <a href="#" class="btn border-shadow delete" data-id=<%=users[i]._id%>>
             <span class="text-gradient"><i class="fa-solid fa-users-slash"></i></span>
         </a>
     </td>
+    
 </tr>
 <% } %>
