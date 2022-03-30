@@ -11,7 +11,7 @@ exports.homeRoutes=(req,res) => {
             res.render("home",{users:response.data});
         })
         .catch(err =>{
-            res.send(err)
+            res.send(err);
         })    
 }
 
@@ -25,6 +25,6 @@ exports.update_user=(req,res) => {
         res.render("update_user",{user:userdata.data})
     })
     .catch(err =>{
-        res.send(err)
+        res.send(err);
     })    
 }
