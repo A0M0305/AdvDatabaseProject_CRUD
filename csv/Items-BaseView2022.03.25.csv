@@ -1,0 +1,938 @@
+﻿Item Code,Description,Short Desc.,$ Cost,$ Retail,Sale UOM Code,Sale UOM Conv,Item Class,Item Class 2,Item Class 3,Vendor
+9021,10% Off Classic Drinks Discount,10ClassAlc,0,0,Each,1,Comps,,,Trafalgar
+9022,12% Off Gold Drinks Disc,12GoldAlc,0,0,Each,1,Comps,,,Trafalgar
+9020,12% Off Gold Food Discount,12GoldFood,0,0,Each,1,Comps,,,Trafalgar
+9024,15% Off Founders Drinks Discount,15FndrDr,0,0,Each,1,Comps,,,Trafalgar
+9023,15% Off Founders Food Discount,15FndrFood,0,0,Each,1,Comps,,,Trafalgar
+1507,"2013 Demi-Sec, Hattingley Valley",013DemiSec,0,30,Each,1,Merchandise,,,Trafalgar
+1508,2018 Hattingley Valley Rose,018HattRos,0,30,Each,1,Merchandise,,,Trafalgar
+9062,2021 Christmas Gift Vouchers,XmasGift,0,0,Each,1,Comps,,,Trafalgar
+9017,40% Staff Food Discount,F&B_40%,0,0,Each,1,Comps,,,Trafalgar
+1292,Absolut Double,Abs50ml,0.91392,9.3,50ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1291,Absolut Single,Abs25ml,0.45696,4.65,25ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+81,Absolut Vodka (Component),AbsBott,12.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka,Casa Juilia plc
+1293,Absolute Vodka,AbsButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+9034,Add On,AddOnButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+9035,Add On Sweet Potatoes,AddSWPotat,0,1.5,Each,1,Food,,,Trafalgar
+179,Alcohol Free Brooklyn,AFBrooklyn,0.9225,5.5,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+960,All 3 Cheeses,3Cheeses,0,12.5,Each,1,Food,Hot Food,,Trafalgar
+388,Almond Milk,Almond,0,0,Each,1,Hot Drinks,,,Trafalgar
+186,Amalfi Spritz,AmalfiSpri,1.295679,12.5,Each,1,Alcohol,,,Trafalgar
+119,Amaretto Disaronno (Component),DisaroBott,13.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Liqueur,Casa Juilia plc
+1409,Amaretto Disaronno Double,Disaro50ml,0.98532,4,50ml,1,Alcohol,Alcohol - Spirits,Liqueur,Trafalgar
+334,Americano,Americano ,0.05992,2.9,G,1,Hot Drinks,Hot Drinks - Coffee,,Trafalgar
+127,Angostura Bitters (Component),AngBott,9.3,0,ML,0.005,Alcohol,Alcohol - Spirits,Bitters,Casa Juilia plc
+128,Angostura Orange Bitters (Component),AngOraBott,6.3,0,ML,0.01,Alcohol,Alcohol - Spirits,Bitters,Casa Juilia plc
+23,Aperol (Component),AperolBott,10.25,0,ML,0.0014,Alcohol,Alcohol - Spirits,Aperatifs,Casa Juilia plc
+813,Aperol Spritz,Aper Sprz,1.99675,12.5,Each,1,Alcohol,,,Enotria
+1104,Apple Sultana Hazelnut Crumble,AppCrumble,0,7.5,Each,1,Food,Desserts,,Trafalgar
+1052,Apple Tart,AppleTart,0,3.5,Each,1,Food,Desserts,,Trafalgar
+44,Appletiser,Appletiser,0.66,4,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+9023,"Arancini, Aubergine, Thyme Feta (v)",AATFeta,0,8.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+9024,"Arancini, Beef Ragu",BeefRagu,0,8.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+411,Assorted Raisins,Raisins,1.95,4.1,Each,1,Confectionary,,,Trafalgar
+1325,Auchentoshan Double,Auche50ml,2.55612,13.9,50ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1324,Auchentoshan Single,Auche25ml,1.27806,6.95,25ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1326,Auchentoshan Three Wood Single Malt,AucheButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+91,Auchentoshan Three Wood Whisky (Component),AucheBott,35.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Single Malt,Casa Juilia plc
+1208,Aviation Gin,AviatButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+53,Aviation Gin (Component),AviatBott,24.95,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1207,Aviation Gin Double,Aviat50ml,1.78143,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1206,Aviation Gin Single,Aviat25ml,0.890715,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1262,Bacardi Black Double,BacaBl50ml,1.162392,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Dark,Trafalgar
+1263,Bacardi Black Rum,BacaBlButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+72,Bacardi Black Rum (Component),BacaBlBott,16.28,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Dark,Casa Juilia plc
+1261,Bacardi Black Single,BacaBl25ml,0.581196,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Dark,Trafalgar
+1283,Bacardi Carta Fuego Double,Fuego50ml,1.162392,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Flavoured,Trafalgar
+1284,Bacardi Carta Fuego Rum,FuegoButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+78,Bacardi Carta Fuego Rum (Component),FuegoBott,16.28,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Flavoured,Casa Juilia plc
+1282,Bacardi Carta Fuego Single,Fuego25ml,0.581196,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Flavoured,Trafalgar
+1271,Bacardi Cuatro 4yr Double,Cuatro50ml,1.15668,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Gold,Trafalgar
+1272,Bacardi Cuatro 4yr Rum,CuatroButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+74,Bacardi Cuatro 4yr Rum (Component),CuatroBott,16.2,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Gold,Casa Juilia plc
+1270,Bacardi Cuatro 4yr Single,Cuatro25ml,0.57834,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Gold,Trafalgar
+1250,Bacardi White Double,Bacard50ml,0.97104,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum White,Trafalgar
+1251,Bacardi White Rum,BacardButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+69,Bacardi White Rum (Component),BacardBott,13.6,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum White,Casa Juilia plc
+1249,Bacardi White Single,Bacard25ml,0.48552,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum White,Trafalgar
+1412,Baileys Double,Bailey50ml,0.77112,4,50ml,1,Alcohol,Alcohol - Spirits,Liqueur,Trafalgar
+120,Baileys Irish Cream (Component),BaileyBott,10.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Liqueur,Casa Juilia plc
+1096,Baked loaf slice,Load Slice,0,3.95,Each,1,Snacks,Desserts,,Trafalgar
+401,BangBang Veg Salad,BBVegSalad,0,8.5,Each,1,Food,Hot Food,,Trafalgar
+1448,Beefeater Blood Orange,BeefOrButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+62,Beefeater Blood Orange (Component),BeefOrBott,15.45,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin Flavoured,Casa Juilia plc
+1447,Beefeater Blood Orange Double,BeefOr50ml,1.10313,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+1446,Beefeater Blood Orange Single,BeefOr25ml,0.551565,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+1211,Beefeater Gin,BeefButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+54,Beefeater Gin (Component),BeefBott,12.7,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1210,Beefeater Gin Double,Beef50ml,0.90678,8.5,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1209,Beefeater Gin Single,Beef25ml,0.45339,4.25,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1503,Beer Cans Givaway,BeerCans,0,3.5,Each,1,Alcohol,,,Trafalgar
+196,Bellini Champ Fizz,Bellini,1.0234,20,Each,1,Alcohol,,,Trafalgar
+1295,Belvedere Double,Belv50ml,1.776432,9.3,50ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1294,Belvedere Single,Belv25ml,0.888216,4.65,25ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1296,Belvedere Vodka,BelvButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+82,Belvedere Vodka (Component),BelvBott,24.88,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka,Casa Juilia plc
+1081,Benders 9oz & 12oz Sip Lid 1x1000 (8650098),Lids,19.75,0,Each,1,Hot Drinks,,,Cafe Praego
+1298,Black Cow Double,BCow50ml,1.40301,9.3,50ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1297,Black Cow Single,BCow25ml,0.701505,4.65,25ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1299,Black Cow Vodka,BCowButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+83,Black Cow Vodka (Component),BCowBott,19.65,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka,Casa Juilia plc
+219,Black Pudding Sausage Roll,Black Pud,2.95,6,Each,1,Food,Small Plates,,Trafalgar
+326,Bodegas Santa Ana,MalbButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+830,Bodegas Santa Ana (Component),MalbBott,6.45,0,ML,0.0013,Alcohol,Alcohol - Wine,Red Wines,Enotria
+643,Bodegas Santa Ana 125ml,Malb125ml,1.075215,5.15,125ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+823,Bodegas Santa Ana 175ml,Malb175ml,1.504785,6.95,175ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+831,Bodegas Santa Ana 250ml,Malb250ml,2.149785,9.75,250ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+834,Bodegas Santa Ana 750ml,Malb750ml,6.45,29,Bottle,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+1214,Bombay Gin Double,Bombay50ml,1.1067,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1213,Bombay Gin Single,Bombay25ml,0.55335,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1215,Bombay Sapphire Gin,BombayButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+55,Bombay Sapphire Gin (Component),BombayBott,15.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+14,Booking Fee,BookingFee,0,0,Each,1,Merchandise,,,Trafalgar
+9016,"Bread, Blasamic Olive Oil (ve)",BreadOlive,0,5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+217,Breads Balsamic Oil,Bread Oil,0,5,Each,1,Food,Small Plates,,Trafalgar
+317,Briccotondo Barbera,BriccButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+840,Briccotondo Barbera (Component),BriccBott,8.25,0,ML,0.0013,Alcohol,Alcohol - Wine,Red Wines,Enotria
+843,Briccotondo Barbera 125ml,Bricc125ml,1.375275,7,125ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+842,Briccotondo Barbera 175ml,Bricc175ml,1.924725,9.8,175ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+841,Briccotondo Barbera 250ml,Bricc250ml,2.749725,12.6,250ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+844,Briccotondo Barbera 750ml,Bricc750ml,8.25,38,Bottle,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+184,Brooklyn Stonewall IPA,BrooklynSt,1.4325,5.5,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+1067,BSC Elderflower Syrup,Syrup ,5.41,0,Each,1,Hot Drinks,,,Cafe Praego
+1069,BSC Passionfruit Syrup,Passionfru,6.25,0,Each,1,Hot Drinks,,,Cafe Praego
+1068,BSC Raspberry Syrup, Raspberry,6.25,0,Each,1,Hot Drinks,,,Cafe Praego
+1070,BSC Strawberry Shrub Syrup x,Shrub Syru,6.25,0,Each,1,Hot Drinks,,,Cafe Praego
+1071,BSC Watermelon Syrup,Watermelo,6.75,0,Each,1,Hot Drinks,,,Cafe Praego
+808,Bubbly,Bubbly,0,0,Each,1,Alcohol,Alcohol - Wine,,Enotria
+1368,Buffalo Trace,TraceButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1367,Buffalo Trace Double,Trace50ml,1.19238,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Bourbon,Trafalgar
+1366,Buffalo Trace Single,Trace25ml,0.59619,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Bourbon,Trafalgar
+105,Buffalo Trace Whisky (Component),TraceBott,16.7,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Bourbon,Casa Juilia plc
+1371,Bulleit Bourbon,BulleiButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1370,Bulleit Bourbon Double,Bullei50ml,1.51368,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Bourbon,Trafalgar
+1369,Bulleit Bourbon Single,Bullei25ml,0.75684,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Bourbon,Trafalgar
+106,Bulleit Bourbon Whisky (Component),BulleiBott,21.2,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Bourbon,Casa Juilia plc
+182,Burning Sky Arise,BurnSkyari,45.64,0,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+1094,Burning Sky Arise can,SkyArisCan,0.9225,6.5,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+662,Burning Sky Arise Half,BurningHal,0,4.5,Each,1,Alcohol,Alcohol - Beer,,Trafalgar
+663,Burning Sky Arise Pint,BurningPin,0,9,Each,1,Alcohol,Alcohol - Beer,,Trafalgar
+9061,Burns Nights Special,BurnsNight,0,50,Each,1,Food,,,Trafalgar
+298,"Burrata, Fennel, Orange and Beetroot",Burrata,0,9.5,Each,1,Food,Small Plates,,Trafalgar
+1055,Caffe Praego Decaf Shots,Decaf Shot,25.6,0,Each,1,Hot Drinks,,,Cafe Praego
+1082,Caffe Praego Decaf Shots 100x7g ,Decafshots,25.6,0,Each,1,Hot Drinks,,,Cafe Praego
+1083,Caffe Praego Inzozi Beans 12x500g,Beans,77.4,0,Each,1,Hot Drinks,,,Cafe Praego
+9014,Cake Pops,CakePops,0,2.75,Each,1,Snacks,,,Trafalgar
+360,Cakes,Cakes,0,0,Each,1,Food,Desserts,,Trafalgar
+129,Campari (Component),CamparBott,11.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Aperatifs,Casa Juilia plc
+1433,Campari Double,Campa50ml,0.8211,4,50ml,1,Alcohol,Alcohol - Spirits,Aperatifs,Trafalgar
+1091,Canderel Sachets 1x1000,Canderel ,11.8,0,Each,1,Hot Drinks,,,Cafe Praego
+335,Cappuccino,Cappuccino,0.05992,3.6,G,1,Hot Drinks,Hot Drinks - Coffee,,Trafalgar
+1000,Caramalized Apple Frangipane,ApplFrangi,0,4,Each,1,Food,Desserts,,Trafalgar
+9037,Carnival DIPA,CarnivalPA,2.49,5.5,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+362,Carrot Cake,CarrotCake,0,3.95,Each,1,Snacks,,,Trafalgar
+961,Cashel Blue,CashelBlue,0,4.5,Each,1,Food,Hot Food,,Trafalgar
+309,Chablis Joseph Drouhin,ChabButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+780,Chablis Joseph Drouhin (Component),ChabBott,10.9,0,ML,0.0013,Alcohol,Alcohol - Wine,White Wines,Enotria
+781,Chablis Joseph Drouhin 125ml,Chab125ml,1.81703,8.5,125ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+782,Chablis Joseph Drouhin 175ml,Chab175ml,2.54297,11.5,175ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+783,Chablis Joseph Drouhin 250ml,Chab250ml,3.63297,15,250ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+784,Chablis Joseph Drouhin 750ml,Chab750ml,10.9,45,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+121,Chambord (Component),ChambBott,18.1,0,ML,0.0014,Alcohol,Alcohol - Spirits,Liqueur,Casa Juilia plc
+1415,Chambord Double,Chamb50ml,1.29234,4,50ml,1,Alcohol,Alcohol - Spirits,Liqueur,Trafalgar
+562,Charcuterie Main,Char Main,0,15,Each,1,Food,Small Plates,,Trafalgar
+560,Charcuterie Plate,Charcute,0,0,Each,1,Food,Small Plates,,Trafalgar
+561,Charcuterie Starter,Char Start,0,7,Each,1,Food,Small Plates,,Trafalgar
+1451,Chase Pink Grapefruit & Pomelo,ChaPnkButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1450,Chase Pink Grapefruit & Pomelo Double,ChaPnk50ml,1.99206,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+63,Chase Pink Grapefruit & Pomelo Gin (Component),ChaPnkBott,27.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin Flavoured,Casa Juilia plc
+1449,Chase Pink Grapefruit & Pomelo Single,ChaPnk25ml,0.99603,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+1454,Chase Rhubarb & Bramley Apple,ChaRbhButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1453,Chase Rhubarb & Bramley Apple Double,ChaRbh50ml,1.97421,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+64,Chase Rhubarb & Bramley Apple Gin (Component),ChaRhbBott,27.65,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin Flavoured,Casa Juilia plc
+1452,Chase Rhubarb & Bramley Apple Single,ChaRbh25ml,0.987105,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+959,Cheese Plate,CheesePlat,0,0,Each,1,Food,Hot Food,,Trafalgar
+1097,Cheese Twists,CheeseTwis,0,2.8,Each,1,Food,Desserts,,Trafalgar
+9062,Chinese NewYear Special,ChineseNY,0,55,Each,1,Food,,,Trafalgar
+1346,Chivas 18yr Double,Chivas50ml,3.41292,17,50ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+1345,Chivas 18yr Single,Chivas25ml,1.70646,8.5,25ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+1347,Chivas Regal 18yr ,ChivasButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+98,Chivas Regal 18yr Whisky (Component),ChivasBott,47.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Blended,Casa Juilia plc
+357,Chocolate Beetroot Loaf,ChocBeetro,0,3.95,Each,1,Snacks,,,Trafalgar
+30,Chocolate Heaven,Chocolate,0.46,3.95,Each,1,Ice Cream,,,Marshfield Farm Ice Cream
+9999,Christmas Gift Voucher,XMasVouch,0,16,Each,1,Merchandise,,,Trafalgar
+8034,Christmas Mince Pies,XMincePie,1.5,2.85,Each,1,Snacks,Snacks - Pastries,,Trafalgar
+8035,Christmas Slices,XSlices,1.875,2.85,Each,1,Snacks,Snacks - Pastries,,Trafalgar
+10002,Classic £1 Off Beverage,Class£1,0,0,Each,1,Comps,,,Trafalgar
+197,Classic Champ Fizz,ClassicFiz,1.3024,20,Each,1,Alcohol,,,Trafalgar
+6,Classic One Off Subscription,Clsc1OfSub,0,100,Each,1,Packages,,,Trafalgar
+1,Classic Subscription,ClascSub,0,90,Each,1,Packages,,,Trafalgar
+1004,Coca-Cola Icon Contour,IconCoke,0.63,4.15,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+146,Coca-Cola Icon Contour Bottle,IconButt,0,0,Each,1,Parent Sale Button,,,Casa Juilia plc
+147,Coca-Cola Zero Icon Contour,IconZero,0.55,4.15,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+1470,Cocchi Vermouth Di Torino(Component),CocVerBott,12.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vermouth,Casa Juilia plc
+212,Cocktail Above The Clouds,AboveCloud,2.1211,12.5,Each,1,Alcohol,,,Trafalgar
+207,Cocktail Cocchi Americano,Americano,1.0206,12.5,Each,1,Alcohol,,,Trafalgar
+211,Cocktail Cosmopolitan,Cosmo,4.32424,12.5,Each,1,Alcohol,,,Trafalgar
+206,Cocktail Espresso Martini,Esp Martin,1.6037,12.5,Each,1,Alcohol,,,Trafalgar
+213,Cocktail Honey Bee,HoneyBee,1.407,12.5,Each,1,Alcohol,,,Trafalgar
+200,Cocktail Long Island Ice Tea,Long Islan,1.60335,12.5,Each,1,Alcohol,,,Trafalgar
+214,Cocktail Mai Tai,MaiTai,1.24145,12.5,Each,1,Alcohol,,,Trafalgar
+210,Cocktail Manhattan,Manhattan,2.2706,12.5,Each,1,Alcohol,,,Trafalgar
+203,Cocktail Mojito,Mojito,1.3356,12.5,Each,1,Alcohol,,,Trafalgar
+209,Cocktail Moscow Mule,MoscowMule,1.653,12.5,Each,1,Alcohol,,,Trafalgar
+204,Cocktail Negroni,Negroni,1.53475,12.5,Each,1,Alcohol,,,Trafalgar
+205,Cocktail Old Fashioned,OldFash,1.88,12.5,Each,1,Alcohol,,,Trafalgar
+1502,Cocktail Special,C.Special,1.2446,8,Each,1,Alcohol,,,Trafalgar
+208,Cocktail Vesper,Vesper,1.63016,12.5,Each,1,Alcohol,,,Trafalgar
+450,Cocktails,Cocktails,0,0,Each,1,Parent Sale Button,,,Trafalgar
+390,Coconut Milk,Coconut,0,0,Each,1,Hot Drinks,,,Trafalgar
+400,Cods Roe,CodsRoe,0,5,Each,1,Food,Hot Food,,Trafalgar
+260,Coffee Beans (Component),CoffeeBean,7.49,0,G,0.001,Hot Drinks,,,Trafalgar
+122,Cointreau (Component),CointrBott,15.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Liqueur,Casa Juilia plc
+1418,Cointreau Double,Cointr50ml,1.12812,4,50ml,1,Alcohol,Alcohol - Spirits,Liqueur,Trafalgar
+46,Coke Bibs (Component),CokeBIB,60.25,0,Oz,0.0041,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8054,Coke Post Mix,CokeButt,0,0,Each,1,Parent Sale Button,,,Casa Juilia plc
+319,Columbia Valley Cabernet,CaberButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+890,Columbia Valley Cabernet (Component),CaberBott,9.89,0,ML,0.0013,Alcohol,Alcohol - Wine,,Enotria
+895,Columbia Valley Cabernet 125ml,Caber125ml,1.648663,8.5,125ml,1,Alcohol,Alcohol - Wine,,Enotria
+896,Columbia Valley Cabernet 175ml,Caber175ml,2.307337,11.5,175ml,1,Alcohol,Alcohol - Wine,,Enotria
+897,Columbia Valley Cabernet 250ml,Caber250ml,3.296337,15,250ml,1,Alcohol,Alcohol - Wine,,Enotria
+898,Columbia Valley Cabernet 750ml,Caber750ml,9.89,45,Bottle,1,Alcohol,Alcohol - Wine,,Enotria
+308,Columbia Valley Chardonnay,ChardButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+745,Columbia Valley Chardonnay (Component),ChardBott,9.15,0,ML,0.0013,Alcohol,Alcohol - Wine,White Wines,Enotria
+747,Columbia Valley Chardonnay 125ml,Chard125ml,1.525305,8.5,125ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+748,Columbia Valley Chardonnay 175ml,Chard175ml,2.134695,11.5,175ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+778,Columbia Valley Chardonnay 250ml,Chard250ml,3.049695,15,250ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+749,Columbia Valley Chardonnay 750ml,Chard750ml,9.15,45,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+10001,Comp Ticket,Comp Ticke,0,0,Each,1,Comps,,,Trafalgar
+359,Cookie,Cookie,0,2.5,Each,1,Snacks,,,Trafalgar
+962,Cornish Yarg,CornishYa,0,4.5,Each,1,Food,Hot Food,,Trafalgar
+312,Cote de Provence,CotesButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+900,Cote de Provence (Component),CotesBott,7.49,0,ML,0.0013,Alcohol,Alcohol - Wine,Rose Wines,Enotria
+901,Cote de Provence 125ml,Cotes125ml,1.248583,5.25,125ml,1,Alcohol,Alcohol - Wine,Rose Wines,Enotria
+902,Cote de Provence 175ml,Cotes175ml,1.747417,7.9,175ml,1,Alcohol,Alcohol - Wine,Rose Wines,Enotria
+903,Cote de Provence 250ml,Cotes250ml,2.496417,10.5,250ml,1,Alcohol,Alcohol - Wine,Rose Wines,Enotria
+904,Cote de Provence 750ml,Cotes750ml,7.49,31.5,Bottle,1,Alcohol,Alcohol - Wine,Rose Wines,Enotria
+1202,Courvoisier VSOP,CourvButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+50,Courvoisier VSOP (Component),CourvBott,25.05,0,ML,0.0014,Alcohol,Alcohol - Spirits,Cognac,Casa Juilia plc
+1201,Courvoisier VSOP Double,Courv50ml,1.78857,5.5,50ml,1,Alcohol,Alcohol - Spirits,Cognac,Trafalgar
+1200,Courvoisier VSOP Single,Courv25ml,0.894285,2.75,25ml,1,Alcohol,Alcohol - Spirits,Cognac,Trafalgar
+356,Croissant,Croissant,0,2.6,Each,1,Food,Desserts,,Trafalgar
+372,Custard Nata,Nata,0,2,Each,1,Snacks,,,Trafalgar
+1328,Dalwhinnie 15yr Double,Dalwh50ml,2.1777,11.4,50ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1327,Dalwhinnie 15yr Single,Dalwh25ml,1.08885,6.7,25ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1329,Dalwhinnie 15yr Single Malt,DalwhButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+92,Dalwhinnie 15yr Single Malt Whisky (Component),DalwhBott,30.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Single Malt,Casa Juilia plc
+1050,Dark Chocolate Brownie,ChocBrowni,0,2.5,Each,1,Snacks,Desserts,,Trafalgar
+408,Dark Chocolate Malt Balls,DChocMaltB,1.95,4.1,Each,1,Confectionary,,,Trafalgar
+654,Dark Chocolate Mousse,DarkChocMo,0,7,Each,1,Food,Desserts,,Trafalgar
+8050,Dash of Coke,CokeDash,0.51815,1.5,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8055,Dash of Diet Coke,DietDash,0.40095,1.5,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8060,Dash of Fanta,FantaDash,0.40095,1.5,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8065,Dash of Lemonade,LemonDash,0.42363,1.5,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+1101,Deposit Founders Private Bookings,DepoFound,0,125,Each,1,Packages,,,Trafalgar
+9050,Deposit Gold Private Bookings,DepoGold,0,212,Each,1,Packages,,,Trafalgar
+1100,Deposit Private Bookings,DepoPvt,0,250,Each,1,Packages,,,Trafalgar
+1350,Dewars 12yr,DewarsButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1349,Dewars 12yr Double,Dewars50ml,1.79928,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+1348,Dewars 12yr Single,Dewars25ml,0.89964,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+99,Dewars 12yr Whisky (Component),DewarsBott,25.2,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Blended,Casa Juilia plc
+45,Diet Coke Bibs (Component),DietBIB,49.5,0,Oz,0.0041,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8059,Diet Coke Post Mix,DietButt,0,0,Each,1,Parent Sale Button,,,Casa Juilia plc
+1274,Diplomatico Reserva Double,Diplom50ml,2.2491,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Gold,Trafalgar
+1275,Diplomatico Reserva Exclusiva Rum,DiplomButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+75,Diplomatico Reserva Exclusiva Rum (Component),DiplomBott,31.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Gold,Casa Juilia plc
+1273,Diplomatico Reserva Single,Diplom25ml,1.12455,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Gold,Trafalgar
+9048,Disney - Cocktail,DCocktail,1.356,8,Each,1,Alcohol,,,Trafalgar
+9011,Distributor Fee £125,Distrib125,0,125,Each,1,Packages,,,Trafalgar
+550,DOC Millesimato Prosecco Rose,PRoseButt,0,0,Each,1,Parent Sale Button,,,Enotria
+809,DOC Millesimato Prosecco Rose (Component),PRoseBott,6.89,0,ML,0.0013,Alcohol,Alcohol - Sparkling,Prosecco,Enotria
+803,DOC Millesimato Prosecco Rose 125ml,PRose125ml,1.148563,10,125ml,1,Alcohol,Alcohol - Sparkling,Prosecco,Enotria
+912,DOC Millesimato Prosecco Rose 750ml,PRose750ml,6.89,32,Bottle,1,Alcohol,Alcohol - Sparkling,Prosecco,Enotria
+500,Double Espresso,DEspresso,0.11984,2.9,G,1,Hot Drinks,Hot Drinks - Coffee,,Trafalgar
+9021,Duck Liver Parfait,DuckLiver,0,8.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+159,Eager Cloudy Apple (Component),EagApple,1.28,0,Oz,0.0284,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+160,Eager Cranberry (Component),EagCranb,1.56,0,Oz,0.0284,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+34,Eager Juice,EagButt,0,0,Each,1,Parent Sale Button,,,Casa Juilia plc
+161,Eager Orange (Component),EagOrange,1.44,0,Oz,0.0284,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+162,Eager Pineapple (Component),EagPineapp,1.52,0,Oz,0.0284,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+163,Eager Tomato (Component),EagTomato,1.28,0,Oz,0.0284,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+1238,East London Double,EaLond50ml,1.13526,9,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1239,East London Gin,EaLondButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+140,East London Gin (Component),EaLondBott,15.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1244,East London Louder Double,Louder50ml,1.48155,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1245,East London Louder Gin,LouderButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+144,East London Louder Gin (Component),LoudrBott,20.75,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1243,East London Louder Single,Louder25ml,0.740775,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1268,East London Rarer Double,EaRare50ml,1.44585,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Dark,Trafalgar
+1269,East London Rarer Rum,EaRareButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+145,East London Rarer Rum Dark (Component),EaRareBott,20.25,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Dark,Casa Juilia plc
+1267,East London Rarer Single,EaRare25ml,0.722925,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Dark,Trafalgar
+1254,East London Rum,EaRumButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+142,East London Rum (Component),EaRumBott,15.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum White,Casa Juilia plc
+1253,East London Rum Double,EaRum50ml,11.3526,9,50ml,1,Alcohol,Alcohol - Spirits,Rum White,Trafalgar
+1252,East London Rum Single,EaRum25ml,0.56763,4.5,25ml,1,Alcohol,Alcohol - Spirits,Rum White,Trafalgar
+1237,East London Single,EaLond25ml,0.56763,4.5,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1302,East London Vodka,ELVodkButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+141,East London Vodka (Component),ELVodkBott,15.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka,Casa Juilia plc
+1301,East London Vodka Double,ELVodk50ml,1.13526,9.3,50ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1300,East London Vodka Single,ELVodk25ml,0.56763,4.65,25ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+157,Elderflower Cordial (Component),ElderCBott,3.2,0,ML,0.002,Alcohol,Alcohol - Spirits,Cordials,Casa Juilia plc
+239,ELLC Cans,ELLC Cans,0,0,Each,1,Parent Sale Button,,,Trafalgar
+251,ELLC Ginger & Rum Cans,ELLCGinger,1.4625,5.25,Each,1,Alcohol,Alcohol - Cans,,Trafalgar
+252,ELLC Grapefruit G&T Cans,ELLCGrapef,1.4625,5.25,Each,1,Alcohol,Alcohol - Cans,,Trafalgar
+1014,ELLC Lime & Vodka Cans,ELLC Lime,1.4625,5.25,Each,1,Alcohol,Alcohol - Cans,,Trafalgar
+1015,ELLC Pomegranate & Vodka Cans,ELLCPomeg,1.4625,5.25,Each,1,Alcohol,Alcohol - Cans,,Trafalgar
+1016,ELLC Rhubard & Vodka Cans,ELLC Rhuba,1.4625,5.25,Each,1,Alcohol,Alcohol - Cans,,Trafalgar
+250,ELLC Watermelon Cucumber & Vodka Cans,ELLCWaterm,1.4625,5.25,Each,1,Alcohol,Alcohol - Cans,,Trafalgar
+12,Email Delivery,EmailDeli,0,0,Each,1,Merchandise,,,Trafalgar
+191,English Spritz,EngliSprit,2.11015,12.5,Each,1,Alcohol,Alcohol - Wine,,Trafalgar
+501,Espresso,Espresso,0.05992,2.5,G,1,Hot Drinks,Hot Drinks - Coffee,,Trafalgar
+8018,Event Unlimited Juice,EventJuice,0,3,Each,1,Packages,Soft Drinks,,Trafalgar
+8017,Event Unlimited Soft Drink,EventDrink,0,3,Each,1,Packages,Soft Drinks,,Trafalgar
+8013,EventPH £15,EPH15,0,15,Each,1,Packages,Food,,Trafalgar
+2525,EventPH £25,EPH25,0,25,Each,1,Packages,Food,,Trafalgar
+9008,EventPH £30,EPH£30,0,30,Each,1,Packages,Food,,Trafalgar
+8014,EventPH £35,EPH35,0,35,Each,1,Packages,Food,,Trafalgar
+8015,EventPH £40,EPH40,0,40,Each,1,Packages,Food,,Trafalgar
+8016,EventPH £50,EPH50,0,50,Each,1,Packages,Food,,Trafalgar
+8038,EventPH £64,EPH64,0,64,Each,1,Packages,Food,,Trafalgar
+327,F&F Post Mix,FF PostMix,0,0,Each,1,Soft Drinks,,,Trafalgar
+48,Fanta Bibs (Component),FantaOrang,49.5,0,Oz,0.0041,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8064,Fanta Post Mix,FantaButt,0,0,Each,1,Parent Sale Button,,,Casa Juilia plc
+126,Fee Bros Old Fashioned Aromatic (Component),FeeBro,9.85,0,ML,0.0067,Alcohol,Alcohol - Spirits,Bitters,Casa Juilia plc
+132,Fernet Branca (Component),FerBraBott,19.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Digestives,Casa Juilia plc
+1437,Fernet Branca Double,FerBra50ml,1.42086,4.25,50ml,1,Alcohol,Alcohol - Spirits,Digestives,Trafalgar
+133,Fernet Branca Menta (Component),FerMenBott,19.3,0,ML,0.0014,Alcohol,Alcohol - Spirits,Digestives,Casa Juilia plc
+1439,Fernet Branca Menta Double,FerMen50ml,1.37802,4.25,50ml,1,Alcohol,Alcohol - Spirits,Digestives,Trafalgar
+148,FeverTree Aromatic Tonic,FTAromatic,0.54,2.25,Each,1,Soft Drinks,,,Casa Juilia plc
+149,FeverTree Elderflower Tonic,FTElder,0.54,2.25,Each,1,Soft Drinks,,,Casa Juilia plc
+150,FeverTree Ginger Ale,FTGingAle,0.54,2.25,Each,1,Soft Drinks,,,Casa Juilia plc
+151,FeverTree Ginger Beer,FTGingBeer,0.54,2.25,Each,1,Soft Drinks,,,Casa Juilia plc
+152,FeverTree Indian Tonic Water,FTIndian,0.54,2.25,Each,1,Soft Drinks,,,Casa Juilia plc
+153,FeverTree Lemon Tonic,FTLemon,0.54,2.25,Each,1,Soft Drinks,,,Casa Juilia plc
+154,FeverTree Lemonade,FTLemonade,0.54,2.25,Each,1,Soft Drinks,,,Casa Juilia plc
+155,FeverTree Mediterranean Tonic,FTMedi,0.54,2.25,Each,1,Soft Drinks,,,Casa Juilia plc
+236,FeverTree Tonic Waters,FTButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+156,FeveTree Refreshingly Light Tonic,FTLight,0.54,2.25,Each,1,Soft Drinks,,,Casa Juilia plc
+479,FF House Wine,FFHouseWin,0,0,Each,1,Alcohol,Alcohol - Wine,,Trafalgar
+331,FF Lemonade,FFLemonade,54.3,0,Each,1,Soft Drinks,,,Casa Juilia plc
+371,Flapjack,Flapjack,0,2.5,Each,1,Food,Desserts,,Trafalgar
+336,Flat White,FlatWhite,0.05992,3.2,G,1,Hot Drinks,Hot Drinks - Coffee,,Trafalgar
+8022,Food Extra Charge,FoodExtra,0,1,Each,1,Food,Hot Food,,Trafalgar
+8,Founders One Off Subscription,Fds1OffSub,0,450,Each,1,Packages,,,Trafalgar
+9,Founders Subscription,FoundSub,0,400,Each,1,Packages,,,Trafalgar
+190,French Spritz,FrenchSpri,2.64425,12.5,Each,1,Alcohol,,,Trafalgar
+1051,Fresh Fruit Platter,FruitPlat,0,6,Each,1,Food,Desserts,,Trafalgar
+1485,Frost Pocket Sauv,FrostButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1481,Frost Pocket Sauv 125ml,Frost125ml,1.025205,4.5,125ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+1482,Frost Pocket Sauv 175ml,Frost175ml,1.434795,6.1,175ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+1483,Frost Pocket Sauv 250ml,Frost250ml,2.049795,8.5,250ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+1484,Frost Pocket Sauv 750ml,Frost750ml,6.15,25,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+1480,Frost Pocket Sauvignon Blanc (Component),FrostBott,6.15,0,ML,0.0013,Alcohol,Alcohol - Wine,White Wines,Enotria
+389,Full-fat milk,Full Fat,0,0,Each,1,Hot Drinks,,,Trafalgar
+307,Gavi di Gavi,GaviButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+741,Gavi di Gavi (Component),GaviBott,8.5,0,ML,0.0013,Alcohol,Alcohol - Wine,White Wines,Enotria
+742,Gavi di Gavi 125ml,Gavi125ml,1.41695,7.5,125ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+743,Gavi di Gavi 175ml,Gavi175ml,1.98305,9.5,175ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+744,Gavi di Gavi 250ml,Gavi250ml,2.83305,11.9,250ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+746,Gavi di Gavi 750ml,Gavi750ml,8.5,35,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+1380,Gentleman Jack,GentButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1379,Gentleman Jack Double,Gent50ml,1.9992,10.9,50ml,1,Alcohol,Alcohol - Spirits,Whisky America,Trafalgar
+1378,Gentleman Jack Single,Gent25ml,0.9996,5.45,25ml,1,Alcohol,Alcohol - Spirits,Whisky America,Trafalgar
+109,Gentleman Jack Whisky (Component),GentBott,28,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky America,Casa Juilia plc
+178,GF Stiegl ,GFStiegl,1.5883,5.5,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+4,Gift Classic Subscription,GFClascSub,0,100,Each,1,Packages,,,Trafalgar
+5,Gift Gold Subscription,GFGoldSub,0,150,Each,1,Packages,,,Trafalgar
+1217,Gin Mare Double,Mare50ml,1.84926,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1218,Gin Mare Gin,MareButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+56,Gin Mare Gin (Component),GinMarBott,25.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1216,Gin Mare Single,Mare25ml,0.92463,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+10003,GinTonic Botanist and Med FT,BotMedFT,2.311,10.5,Each,1,Alcohol,,,Trafalgar
+416,GinTonic Chase Pink Pom and Med FT,ChaseMedFT,2.493,10.5,Each,1,Alcohol,,,Trafalgar
+414,GinTonic Hendricks & Elderflower FT,HendEldFT,2.143,10.5,Each,1,Alcohol,,,Trafalgar
+413,GinTonic Kew and Indian FT,KewIndFT,2.073,10.5,Each,1,Alcohol,,,Trafalgar
+417,GinTonic Mare and Med FT,MareMedFT,2.353,10.5,Each,1,Alcohol,,,Trafalgar
+415,GinTonic Rhubard Ginger Ale,RhubGinger,2.311,10.5,Each,1,Alcohol,,,Trafalgar
+418,GinTonic Tanq0% and Light FT,Tanq0 Ligh,1.3555,10.5,Each,1,Alcohol,,,Trafalgar
+412,GinTonic Tanqueray and Aromatic FT,TanqAroFT,2.8045,10.5,Each,1,Alcohol,,,Trafalgar
+1020,Glass of Apple Juice,GlassApple,0.363648,3,Oz,1,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+1021,Glass of Cranberry Juice,GlassCranb,0.443196,3,Oz,1,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+1022,Glass of Orange Juice,GlassOrang,0.409104,3,Oz,1,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+1023,Glass of Pineapple Juice,GlassPine,0.431832,3,Oz,1,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+1024,Glass of Tomato Juice,GlassTomat,0.363648,3,Oz,1,Soft Drinks,Soft Drinks - Juices,,Casa Juilia plc
+1331,Glenfiddich 12yr Double,Glenf50ml,1.61364,9.9,50ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1330,Glenfiddich 12yr Single,Glenf25ml,0.80682,4.95,25ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1332,Glenfiddich 12yr Single Malt,GlenfButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+93,Glenfiddich 12yr Whisky (Component),GlenfBott,22.6,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Single Malt,Casa Juilia plc
+1335,Glenlivet Founders Reserve,LivetButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1334,Glenlivet Founders Reserve Double,Livet50ml,1.76358,9.9,50ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1333,Glenlivet Founders Reserve Single,Livet25ml,0.88179,4.95,25ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+94,Glenlivet Founders Reserve Whisky (Component),LivetBott,24.7,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Single Malt,Casa Juilia plc
+1392,Gold Jose Cuervo,GJoseButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+7,Gold One Off Subscription,Gd1OffSub,0,150,Each,1,Packages,,,Trafalgar
+2,Gold Subscription,GoldSub,0,140,Each,1,Packages,,,Trafalgar
+1265,Gosling Black Double,Goslin50ml,1.22808,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Dark,Trafalgar
+1266,Gosling Black Seal Dark Rum,GoslinButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1264,Gosling Black Single,Goslin25ml,0.61404,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Dark,Trafalgar
+73,Goslings Black Seal Rum (Component),GoslinBott,17.2,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Dark,Casa Juilia plc
+9012,Gothic Burger,GothBurger,0,16,Each,1,Food,Hot Food,,Trafalgar
+1248,Graham LBV Port,GrahButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1247,Graham LBV Port Double,Grah50ml,0.58696,4.05,50ml,1,Alcohol,Alcohol - Spirits,Port,Trafalgar
+1246,Graham LBV Port Single,Grah25ml,0.29304,2,25ml,1,Alcohol,Alcohol - Spirits,Port,Trafalgar
+52,Grahams LBV Port (Component),GrahBott,8.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Port,Casa Juilia plc
+1304,Grey Goose Double,GreyG50ml,1.81356,9.9,50ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1303,Grey Goose Single,GreyG25ml,0.90678,4.95,25ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1305,Grey Goose Vodka,GreyGButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+84,Grey Goose Vodka (Component),GreyGBott,25.4,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka,Casa Juilia plc
+1030,Guest Beer (Button),GuestButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1109,Guest Beer Half,GuestHalf,0.862125,4,HP,1,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+1113,Guest Beer Keg (Component),GuestKeg,90.75,0,Pint,0.0189,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+1110,Guest Beer Pint,GuestPint,1.715175,8,Pint,1,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+9013,Halloween Cupcakes,HallCupcak,0,3.45,Each,1,Snacks,,,Trafalgar
+9015,HalloweenCuisine,Halloween,0,0,Each,1,Food,,,Trafalgar
+9068,Hattingley Event,HattEvent,0,60,Each,1,Packages,,,Trafalgar
+1510,Hattingley Valley Blanc de Blanc,014HattBla,0,35,Each,1,Merchandise,,,Trafalgar
+1511,Hattingley Wines,HattWines,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1256,Havana Club 3yr Double,Hava3y50ml,1.04958,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum White,Trafalgar
+1257,Havana Club 3yr Rum,HavaButt,0.000694,4.65,25ml,1,Parent Sale Button,,,Trafalgar
+70,Havana Club 3yr Rum (Component),Hav3yBott,14.7,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum White,Casa Juilia plc
+1255,Havana Club 3yr Single,Hava3y25ml,0.52479,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum White,Trafalgar
+1280,Havana Club 7yr Double,Hava7y50ml,1.30662,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Gold,Trafalgar
+1281,Havana Club 7yr Rum,Hava7yButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+77,Havana Club 7yr Rum (Component),Hava7yBott,18.3,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Gold,Casa Juilia plc
+1279,Havana Club 7yr Single,Hava7y25ml,0.65331,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Gold,Trafalgar
+1220,Hayman Sloe Double,Hayman50ml,1.200234,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1221,Hayman Sloe Gin,HaymanButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+57,Hayman Sloe Gin (Component),HaymanBott,16.81,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1219,Hayman Sloe Single,Hayman25ml,0.600117,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+366,Heavenley Honeycomb,Honeycomb,0,3.95,Each,1,Ice Cream,,,Marshfield Farm Ice Cream
+1223,Hendricks Double,Hend50ml,1.63506,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1224,Hendricks Gin,HendButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+58,Hendrick's Gin (Component),HendrBott,22.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1222,Hendricks Single,Hend25ml,0.81753,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+337,Hot Chocolate,HotChoco,0.604,3.8,G,1,Hot Drinks,Hot Drinks - Hot Chocolate,,Trafalgar
+8036,Hot Chocolate with Marshmallow,ChocMarsh,0.604,3.85,Each,1,Hot Drinks,Hot Drinks - Hot Chocolate,,Trafalgar
+333,Hot Drinks,Hot Drinks,0,0,Each,1,Parent Sale Button,,,Trafalgar
+404,HotDog NewOrleans,HotDogNewO,0,8,Each,1,Food,Hot Food,,Trafalgar
+9017,House Marinated Olives (ve),HouseOlive,0,5.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+28,Ice Cream,Ice Cream,1.73,0,Each,1,Ice Cream,,,Marshfield Farm Ice Cream
+9055,InScreen Arancini Aubergine Thyme Feta (v),IS_AATFeta,0,8.5,Each,1,Food,Hot Food,InScreen Menu,Trafalgar
+9056,InScreen Arancini Beef Ragu,IS_BeeRagu,0,8.5,Each,1,Food,Hot Food,InScreen Menu,Trafalgar
+990,InScreen Assorted Raisins,ISRaisins,1.95,4.1,Each,1,Confectionary,,,Trafalgar
+1489,InScreen Bodegas Santa Ana Bottle,ISMalb750,6.45,29,Bottle,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+986,InScreen Coca-Cola Icon Contour,ISIconCoke,0.63,4.15,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+987,InScreen Coca-Zero Icon Contour,ISIconZero,0.55,4.15,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+991,InScreen Dark Chocolate Malt Balls,ISMaltBall,1.95,4.1,Each,1,Confectionary,,,Trafalgar
+1486,InScreen Frost Pocket Sauv Bottle,ISFrost750,6.15,25,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+1473,InScreen Grapefruit G&T Can,ISGrapeG&T,1.4625,5.2,Each,1,Alcohol,Alcohol - Cans,,Trafalgar
+1490,InScreen Joe and Sephs All Flavours,ISJoeSepth,1.73,4.95,Each,1,Popcorn,,,Joe & Seph's
+1479,InScreen Kingsdown Sparkling Water,ISWaterSpa,0.34,3.5,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Trafalgar
+1478,InScreen Kingsdown Still Water,ISWaterSti,0.34,3.5,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Trafalgar
+9054,InScreen Lamb Croquettes,IS_LamCroq,0,9.5,Each,1,Food,Hot Food,InScreen Menu,Trafalgar
+1474,InScreen Lime & Vodka Can,ISLimeVodk,1.4625,5.2,Each,1,Alcohol,Alcohol - Cans,,Trafalgar
+1475,InScreen Luscombe Raspberry,ISLusRasp,0.8,4,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Trafalgar
+1476,InScreen Luscombe Sicilian Lemonade,ISLusLemon,0.93,4,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Trafalgar
+1477,InScreen Luscombe St Clements,ISLusClem,0.9,4,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Trafalgar
+9051,InScreen Padron Peppers & Smoked Sea Salt,IS_Peppers,0,6.5,Each,1,Food,Hot Food,InScreen Menu,Trafalgar
+9052,InScreen Parmesan Truffle Chips (v),IS_TruChip,0,6,Each,1,Food,Hot Food,InScreen Menu,Trafalgar
+1487,InScreen Picpoul de Pinet Bottle,ISPinet750,6.57,29,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+9059,InScreen Plant Based Burger (v),IS_PlantBu,0,14.5,Each,1,Food,Hot Food,InScreen Menu,Trafalgar
+1472,InScreen Rum & Ginger Can,ISGingRum,1.4625,5.2,Each,1,Alcohol,Alcohol - Cans,,Trafalgar
+989,InScreen Sherbet Lemons,ISSherbetL,1.55,4.1,Each,1,Confectionary,,,Trafalgar
+9053,InScreen Sweet Potato Fries (ve),IS_SwFries,0,6,Each,1,Food,Hot Food,InScreen Menu,Trafalgar
+9058,InScreen The Chiswick Cinema Double Burger,IS_DBurger,0,16,Each,1,Food,Hot Food,InScreen Menu,Trafalgar
+9057,InScreen The Chiswick Hotdog,IS_Hotdog,0,10.5,Each,1,Food,Hot Food,InScreen Menu,Trafalgar
+1488,InScreen Tinto Sobre Lias Bottle,ISTinto750,5.1,24,Bottle,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+988,InScreen Vegan Fruit Jelly,ISFruJelly,1.4,4.1,Each,1,Confectionary,,,Trafalgar
+1383,Jack Daniels,JackDButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1382,Jack Daniels Double,JackD50ml,1.19952,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky America,Trafalgar
+1381,Jack Daniels Single,JackD25ml,0.59976,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky America,Trafalgar
+110,Jack Daniels Whisky (Component),JackDBott,16.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky America,Casa Juilia plc
+1362,Jameson Irish,JmasonButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1361,Jameson Irish Double,Jmason50ml,1.19238,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Irish,Trafalgar
+1360,Jameson Irish Single,Jmason25ml,0.59619,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Irish,Trafalgar
+103,Jameson Irish Whisky (Component),JmasonBott,16.7,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Irish,Casa Juilia plc
+16,Joe and Seph Popcorn (Component),Joe&Seph,1.73,0,Each,1,Popcorn,,,Joe & Seph's
+2003,Joe and Sephs All Flavours,JoeSepths,1.73,4.95,Each,1,Popcorn,,,Joe & Seph's
+1355,Johnny Walker Black Double,JBlack50ml,1.3923,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+1356,Johnny Walker Black Label,JBlackButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1354,Johnny Walker Black Single,JBlack25ml,0.69615,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+101,Johnny Walker Black Whisky (Component),JBlackBott,19.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Blended,Casa Juilia plc
+1352,Johnny Walker Red Double,JRed50ml,1.05672,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+1353,Johnny Walker Red Label,JRedButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1351,Johnny Walker Red Single,JRed25ml,0.52836,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+100,Johnny Walker Red Whisky (Component),JRedBott,14.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Blended,Casa Juilia plc
+11,Joint Founders One Off Subscription,JF1OffSub,0,850,Each,1,Packages,,,Trafalgar
+10,Joint Founders Subscription,JtFoundSub,0,750,Each,1,Packages,,,Trafalgar
+1391,Jose Cuervo Reposado Double,GJose50ml,1.00317,9.7,50ml,1,Alcohol,Alcohol - Spirits,Tequila Gold,Trafalgar
+1390,Jose Cuervo Reposado Single,GJose25ml,0.501585,4.85,25ml,1,Alcohol,Alcohol - Spirits,Tequila Gold,Trafalgar
+113,Jose Cuervo Reposado Tequila (Component),GJoseBott,14.05,0,ML,0.0014,Alcohol,Alcohol - Spirits,Tequila Gold,Casa Juilia plc
+116,Jose Cuervo Silver Tequila (Component),SJoseBott,14.05,0,ML,0.0014,Alcohol,Alcohol - Spirits,Tequila Silver,Casa Juilia plc
+1401,Jose Curevo Silver,SJoseButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1400,Jose Curevo Silver Double,SJose50ml,1.00317,9.7,50ml,1,Alcohol,Alcohol - Spirits,Tequila Silver,Trafalgar
+1399,Jose Curevo Silver Single,SJose25ml,0.501585,4.85,25ml,1,Alcohol,Alcohol - Spirits,Tequila Silver,Trafalgar
+124,Kahlua (Component),KahluaBott,13.3,0,ML,0.0014,Alcohol,Alcohol - Spirits,Liqueur,Casa Juilia plc
+1424,Kahlua Double,Kahlua50ml,0.94962,4,50ml,1,Alcohol,Alcohol - Spirits,Liqueur,Trafalgar
+143,Kew Garden Gin (Component),KewGarBott,21.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1241,Kew Gardens Double,Kew50ml,1.56366,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1242,Kew Gardens Gin,KewButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1240,Kew Gardens Single,Kew25ml,0.78183,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1006,Kids Main Chicken Burger,KM Burger,0,7,Each,1,Food,Hot Food,,Trafalgar
+1011,Kids Main Cod,KM Cod,0,7,Each,1,Food,Hot Food,,Trafalgar
+1010,Kids Main Pasta,KM Pasta,0,7,Each,1,Food,Hot Food,,Trafalgar
+1005,Kids Menu,KidsButt,0,0,Each,1,Food,Hot Food,,Trafalgar
+1456,King of Soho Double,KingSo50ml,1.52439,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+1455,King of Soho Single,KingSo25ml,0.762195,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+1457,King of Soho Variorum Pink Berry,KingSoButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+65,King Of Soho Variorum Pink Berry Gin (Component),KingSoBott,21.35,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin Flavoured,Casa Juilia plc
+666,Kingsdown Sparkling Water,WaterSpark,0.34,3.5,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Trafalgar
+665,Kingsdown Still Water,WaterStill,0.34,3.5,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Trafalgar
+664,Kingstown Glass Bottled Water,WaterButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+193,Kir Royale Champ Fizz,KirRoyale,1.4035,20,Each,1,Alcohol,,,Trafalgar
+1286,Kraken Black Spiced Double,Kraken50ml,1.33161,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Flavoured,Trafalgar
+79,Kraken Black Spiced Rum (Component),KrakenBott,18.65,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Flavoured,Casa Juilia plc
+1285,Kraken Black Spiced Single,Kraken25ml,0.665805,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Flavoured,Trafalgar
+1287,Kraken Spiced Rum,KrakenButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1322,Krupnik Honey Double,Krupn50ml,1.16382,9.3,50ml,1,Alcohol,Alcohol - Spirits,Vodka Flavoured,Trafalgar
+1321,Krupnik Honey Single,Krupn25ml,0.58191,4.65,25ml,1,Alcohol,Alcohol - Spirits,Vodka Flavoured,Trafalgar
+1323,Krupnik Honey Vodka,KrupnButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+90,Krupnik Honey Vodka (Component),KrupnBott,16.3,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka Flavoured,Casa Juilia plc
+304,La Cadence Blanc,BlancButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+305,La Cadence Blanc (Component),BlancBott,6.15,0,ML,0.0013,Alcohol,Alcohol - Wine,White Wines,Enotria
+806,La Cadence Blanc 125ml,Blanc125ml,1.025205,4.2,125ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+651,La Cadence Blanc 175ml,Blanc175ml,1.434795,5.5,175ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+653,La Cadence Blanc 250ml,Blanc250ml,2.049795,7.1,250ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+669,La Cadence Blanc 750ml,Blanc750ml,6.15,21,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+313,La Cadence Rouge,RougeButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+751,La Cadence Rouge (Component),RougeBott,4.5,0,ML,0.0013,Alcohol,Alcohol - Wine,Red Wines,Enotria
+715,La Cadence Rouge 125ml,Rouge125ml,0.0747,4.2,125ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+716,La Cadence Rouge 175ml,Rouge175ml,1.04985,5.5,175ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+752,La Cadence Rouge 250ml,Rouge250ml,1.49985,7.1,250ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+753,La Cadence Rouge 750ml,Rouge750ml,4.5,21,Bottle,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+9019,"Lamb Croquettes, Tzatziki",LambCroq,0,9.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+221,Lamb Shoulder,Lamb,0,9.5,Each,1,Food,Hot Food,,Trafalgar
+1338,Laphroaig 10yr ,LaphrButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1337,Laphroaig 10yr Double,Laphr50ml,2.142,11.9,50ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1336,Laphroaig 10yr Single,Laphr25ml,1.071,5.95,25ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+95,Laphroaig 10yr Whisky (Component),LaphrBott,30,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Single Malt,Casa Juilia plc
+802,Large 0.8,Large0.8,0,4.1,Each,1,Soft Drinks,,,Trafalgar
+8053,Large Coke 32oz,CokeLarge,1.6629,4.1,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8058,Large Diet Coke 32oz,DietLarge,1.287,4.1,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8063,Large Fanta 32oz,FantaLarge,1.287,4.1,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8068,Large Lemonade 32oz,LemonLarge,1.3598,4.1,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+380,Latte,Latte,0.05992,3.6,G,1,Hot Drinks,Hot Drinks - Coffee,,Trafalgar
+325,Le Pas Du Moine Chateau Gassier,PasDi Moi ,0,0,Each,1,Alcohol,Alcohol - Wine,,Enotria
+854,Le Pas Du Moine Chateau Gassier (125ml),125PasDuM,0,4.2,125ml,125,Alcohol,Alcohol - Wine,,Enotria
+832,Le Pas Du Moine Chateau Gassier (175ml),175PasDuM,0,6,175ml,175,Alcohol,Alcohol - Wine,,Enotria
+833,Le Pas Du Moine Chateau Gassier (250ml),250PasDuM,0,8,250ml,250,Alcohol,Alcohol - Wine,,Enotria
+795,Le Pas Du Moine Chateau Gassier (Bottle),BOTPasDuM,0,26,Bottle,1,Alcohol,Alcohol - Wine,,Enotria
+310,Le Petit Broux,SancButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+788,Le Petit Broux (Component),SancBott,10.9,0,ML,0.0013,Alcohol,Alcohol - Wine,White Wines,Enotria
+789,Le Petit Broux 125ml,Sanc125ml,1.81703,8.5,125ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+790,Le Petit Broux 175ml,Sanc175ml,2.54297,11.5,175ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+791,Le Petit Broux 250ml,Sanc250ml,3.63297,15,250ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+792,Le Petit Broux 750ml,Sanc750ml,10.9,45,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+9007,LEAFF Zero To Hero,ZeroHero,0,10,Each,1,Alcohol,,,Trafalgar
+358,Lemon Poppyseed Load,LemPoppy,0,3.95,Each,1,Snacks,,,Trafalgar
+655,Lemon Posset,LemonPoss,0,6,Each,1,Food,Desserts,,Trafalgar
+33,Lemon Sorbet,LemonSorb,0.46,3.95,Each,1,Ice Cream,,,Marshfield Farm Ice Cream
+47,Lemonade Bibs (Component),Lemonade,52.3,0,Oz,0.0041,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8069,Lemonade Post Mix,LemonButt,0,0,Each,1,Parent Sale Button,,,Casa Juilia plc
+130,Lillet Blanc (Component),LilletBott,13.09,0,ML,0.0014,Alcohol,Alcohol - Spirits,Aperatifs,Casa Juilia plc
+158,Lime & Lemongrass Cordial (Component),LimeCBott,3.3,0,ML,0.002,Alcohol,Alcohol - Spirits,Cordials,Casa Juilia plc
+49,Limoncello 50ml,Limonc50ml,0.016429,4.5,50ml,50,Alcohol,,,Casa Juilia plc
+180,Low Alcohol Stiegl Radler,LARadler,23.65,5.5,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+35,Luscombe Glass Bottle,LuscButt,0,0,Each,1,Parent Sale Button,,,Casa Juilia plc
+37,Luscombe Orange,LuscOrange,0.9,4,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+36,Luscombe Raspberry,LuscRasp,0.8,4,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+38,Luscombe Sicilian Lemonade,LuscLemona,0.93,4,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+39,Luscombe St Clements,LuscStClem,0.9,4,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+1107,M&M Crispy 107g,M&M Crispy,1.81,4.1,Each,1,Confectionary,,,Cafe Praego
+1106,M&M Peanut 125g,M&M Peanut,1.81,4.1,Each,1,Confectionary,,,Cafe Praego
+96,Macallan Double Cask Gold Whisky (Component),MacalBott,31.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Single Malt,Casa Juilia plc
+1341,Macallan Double Cast Gold,MacalButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1340,Macallan Double Cast Gold Double,Macal50ml,2.27052,11.9,50ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1339,Macallan Double Cast Gold Single,Macal25ml,1.13526,5.95,25ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+338,Macchiato,Macchiato,0.05992,2.5,G,1,Hot Drinks,Hot Drinks - Coffee,,Trafalgar
+1374,Makers Mark,MakersButt,0.002117,0,Each,1,Parent Sale Button,,,Trafalgar
+1373,Makers Mark Double,Makers50ml,1.48155,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Bourbon,Trafalgar
+1372,Makers Mark Single,Makers25ml,0.740775,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Bourbon,Trafalgar
+107,Makers Mark Whisky (Component),MakersBott,20.75,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Bourbon,Casa Juilia plc
+1460,Malfy Blood Orange,MalOraButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1459,Malfy Blood Orange Double,MalOra50ml,1.42086,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+66,Malfy Blood Orange Gin (Component),MalOraBott,19.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin Flavoured,Casa Juilia plc
+1458,Malfy Blood Orange Single,MalOra25ml,0.71043,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+1290,Malibu Rum,MalibuButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+80,Malibu Rum (Component),MalibuBott,11.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Flavoured,Casa Juilia plc
+1289,Malibu Rum Double,Malibu50ml,0.84252,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Flavoured,Trafalgar
+1288,Malibu Rum Single,Malibu25ml,0.42126,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Flavoured,Trafalgar
+1103,Malibu Spritz,MalibuSpri,2.03175,12.5,Each,1,Alcohol,,,Casa Juilia plc
+215,Marinated Olives,Olives,18.5,5,Each,1,Food,Small Plates,,Trafalgar
+8021,Marshmello,Marshmello,0,3.25,Each,1,Snacks,,,Trafalgar
+136,Martini Bianco (Component),MBiancBott,7.62,0,ML,0.0013,Alcohol,Alcohol - Spirits,Vermouth,Casa Juilia plc
+1441,Martini Bianco Double,MBianc50ml,0.508254,4.25,50ml,1,Alcohol,Alcohol - Spirits,Vermouth,Trafalgar
+137,Martini Dry (Component),MDryBott,7.62,0,ML,0.0013,Alcohol,Alcohol - Spirits,Vermouth,Casa Juilia plc
+1443,Martini Dry Double,MDry50ml,0.508254,4.25,50ml,1,Alcohol,Alcohol - Spirits,Vermouth,Trafalgar
+138,Martini Rosso (Component),MRossoBott,7.62,0,ML,0.0013,Alcohol,Alcohol - Spirits,Vermouth,Casa Juilia plc
+1445,Martini Rosso Double,MRosso50ml,0.508254,4.25,50ml,1,Alcohol,Alcohol - Spirits,Vermouth,Trafalgar
+801,Med 0.5,Med0.5,0,3.8,Each,1,Soft Drinks,,,Trafalgar
+384,Milk,Milk,0,0,Each,1,Hot Drinks,,,Trafalgar
+365,Millionaire Shortbread,Millionair,0,2.5,Each,1,Snacks,,,Trafalgar
+194,Mimosa Champ Fizz,Mimosa,3.32405,20,Each,1,Alcohol,,,Trafalgar
+1105,Minstrels 125g,Minstrels,1.82,4.1,Each,1,Confectionary,,,Cafe Praego
+8028,Mix Popcorn Large,MixPopL,5.3119,5.95,Each,1,Popcorn,,,PCO Group (Popcorn)
+8027,Mix Popcorn Medium,MixPopM,1.371875,4.95,Each,1,Popcorn,,,PCO Group (Popcorn)
+1226,Monkey 47 Double,Monkey50ml,1.9278,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1227,Monkey 47 Gin,MonkeyButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+59,Monkey 47 Gin (Component),MonkeyBott,27,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1225,Monkey 47 Single,Monkey25ml,0.9639,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1359,Monkey Shoulder,MonkeyButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1358,Monkey Shoulder Double,Monkey50ml,1.59222,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+1357,Monkey Shoulder Single,Monkey25ml,0.79611,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Blended,Trafalgar
+102,Monkey Shoulder Whisky (Component),MonkeyBott,22.3,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Blended,Casa Juilia plc
+1102,Muffin ,Muffin,0,3.95,Each,1,Snacks,Desserts,,Trafalgar
+1001,Nata,Nata,0,2,Each,1,Snacks,Desserts,,Trafalgar
+8072,National Popcorn Mix,NatPopMix,0.68045,0,Each,1,Popcorn,,,PCO Group (Popcorn)
+8070,National Popcorn Salt,NatPopSalt,0.61875,0,Each,1,Popcorn,,,PCO Group (Popcorn)
+8071,National Popcorn Sweet,NatPopSwee,0.753125,0,Each,1,Popcorn,,,PCO Group (Popcorn)
+8033,Naughty List Chocolate with Baileys,ChocBailys,0.98956,6.85,Each,1,Hot Drinks,Hot Drinks - Hot Chocolate,,Trafalgar
+8032,Naughty List Chocolate with Malfy Gin,ChocMalGin,1.31443,6.85,Each,1,Hot Drinks,Hot Drinks - Hot Chocolate,,Trafalgar
+315,Nero d'Avola,NeroButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+870,Nero d'Avola (Component),NeroBott,5.95,0,ML,0.0013,Alcohol,Alcohol - Wine,Red Wines,Enotria
+864,Nero d'Avola 125ml,Nero125ml,0.991865,4.8,125ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+872,Nero d'Avola 175ml,Nero175ml,1.388135,6.1,175ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+891,Nero d'Avola 250ml,Nero250ml,1.983135,8.7,250ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+892,Nero d'Avola 750ml,Nero750ml,5.95,26,Bottle,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+391,No Milk,No Milk,0,0,Each,1,Hot Drinks,,,Trafalgar
+302,NV Argeo Ruggeri Prosecco Brut,NVProButt,0,0,Each,1,Parent Sale Button,,,Enotria
+805,NV Argeo Ruggeri Prosecco Brut (Component),NVProButt,7.31,0,ML,0.0013,Alcohol,Alcohol - Sparkling,Prosecco,Enotria
+804,NV Argeo Ruggeri Prosecco Brut 125ml,NVPro125ml,1.218577,10,125ml,1,Alcohol,Alcohol - Sparkling,Prosecco,Enotria
+913,NV Argeo Ruggeri Prosecco Brut 750ml,NVPro750ml,7.31,32,Bottle,1,Alcohol,Alcohol - Sparkling,Prosecco,Enotria
+1509,NV Classic Reserve Hattingley Valley,HattClassi,0,30,Each,1,Merchandise,,,Trafalgar
+914,NV Hattingley Valley Classic,NVClaButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+303,NV Hattingley Valley Classic (Component),NVClaBott,21.09,0,ML,0.0013,Alcohol,Alcohol - Sparkling,Prosecco,Enotria
+1002,NV Hattingley Valley Classic 125ml,NVCla125ml,3.515703,14,125ml,1,Alcohol,Alcohol - Sparkling,Champagne,Enotria
+1003,NV Hattingley Valley Classic 750ml,NVCla750ml,21.09,70,Bottle,1,Alcohol,Alcohol - Sparkling,Champagne,Enotria
+911,NV Jacquart Champagne,JacqButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+320,NV Jacquart Champagne (Component),JacqBott,23.28,0,ML,0.0013,Alcohol,Alcohol - Sparkling,Champagne,Enotria
+9010,NV Jacquart Champagne 125ml,Jacq125ml,3.880776,13,125ml,1,Alcohol,Alcohol - Sparkling,Champagne,Enotria
+910,NV Jacquart Champagne 750ml,Jacq750ml,23.28,50,Bottle,1,Alcohol,Alcohol - Sparkling,Champagne,Enotria
+387,Oat Milk,Oat,0,0,Each,1,Hot Drinks,,,Trafalgar
+1404,Olmeca Altos Plata,SOlmecButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1403,Olmeca Altos Plata Double,SOlmec50ml,1.6065,9.7,50ml,1,Alcohol,Alcohol - Spirits,Tequila Silver,Trafalgar
+1402,Olmeca Altos Plata Single,SOlmec25ml,0.80325,4.85,25ml,1,Alcohol,Alcohol - Spirits,Tequila Silver,Trafalgar
+117,Olmeca Altos Plata Tequila (Component),SOlmecBott,22.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Tequila Silver,Casa Juilia plc
+1395,Olmeca Altos Reposado,GOlmecButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1394,Olmeca Altos Reposado Double,GOlmec50ml,1.83855,9.7,50ml,1,Alcohol,Alcohol - Spirits,Tequila Gold,Trafalgar
+1393,Olmeca Altos Reposado Single,GOlmec25ml,0.919275,4.85,25ml,1,Alcohol,Alcohol - Spirits,Tequila Gold,Trafalgar
+114,Olmeca Altos Reposado Tequila (Component),GOlmecBott,25.75,0,ML,0.0014,Alcohol,Alcohol - Spirits,Tequila Gold,Casa Juilia plc
+218,Padron Peppers,Padron Pep,14,5,Each,1,Food,Small Plates,,Trafalgar
+9018,"Padron Peppers, Smoked Sea Salt (ve)",PadronPepp,0,6.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+9060,ParentBaby Coffee and Muffin,PBCoffMuff,0.000479,4,Each,1,Food,,,Trafalgar
+1078,Parma 12oz Paper Cups 1x600,12ozcups,42.22,0,Each,1,Hot Drinks,,,Cafe Praego
+1079,Parma 12oz Paper Cups 1x600,Cups,42.22,0,Each,1,Hot Drinks,,,Cafe Praego
+1080,Parma 9oz Paper Cups 1x680 ,Cups,40.15,0,Each,1,Hot Drinks,,,Cafe Praego
+9031,Parmesan Truffle Chips (v),TruffChips,0,6,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+407,ParmesanTruffChips,PTruffChip,0,6,Each,1,Food,Hot Food,,Trafalgar
+9036,Partizan Dee Dee Pale Ale,Partizan D,2.01,5.5,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+1397,Patron Reposado Double,GPatro50ml,2.87742,10.6,50ml,1,Alcohol,Alcohol - Spirits,Tequila Gold,Trafalgar
+1398,Patron Reposado Gold,GPatroButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1396,Patron Reposado Single,GPatro25ml,1.43871,5.3,25ml,1,Alcohol,Alcohol - Spirits,Tequila Gold,Trafalgar
+115,Patron Reposado Tequila (Component),GPatroBott,40.3,0,ML,0.0014,Alcohol,Alcohol - Spirits,Tequila Gold,Casa Juilia plc
+1407,Patron Silver,SPatroButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1406,Patron Silver Double,SPatro50ml,2.20626,10.6,50ml,1,Alcohol,Alcohol - Spirits,Tequila Silver,Trafalgar
+1405,Patron Silver Single,SPatro25ml,1.10313,5.3,25ml,1,Alcohol,Alcohol - Spirits,Tequila Silver,Trafalgar
+118,Patron Silver Tequila (Component),SPatroBott,30.9,0,ML,0.0014,Alcohol,Alcohol - Spirits,Tequila Silver,Casa Juilia plc
+1365,Peaky Blinder,PeakyButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1364,Peaky Blinder Double,Peaky50ml,1.146684,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Irish,Trafalgar
+1363,Peaky Blinder Single,Peaky25ml,0.573342,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Irish,Trafalgar
+104,Peaky Blinder Whisky (Component),PeakyBott,16.06,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Irish,Casa Juilia plc
+306,Picpoul de Pinet,PinetButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+711,Picpoul de Pinet (Component),PinetBott,6.57,0,ML,0.0013,Alcohol,Alcohol - Wine,White Wines,Enotria
+700,Picpoul de Pinet 125ml,Pinet125ml,1.095219,5,125ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+701,Picpoul de Pinet 175ml,Pinet175ml,1.532781,7.5,175ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+710,Picpoul de Pinet 250ml,Pinet250ml,2.189781,9.5,250ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+702,Picpoul de Pinet 750ml,Pinet750ml,6.57,29,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+8030,Pigs in Blankets,PigsBlank,0,5.85,Each,1,Food,Hot Food,Season Menu,Trafalgar
+131,Pimms (Component),PimmsBott,11.87,0,ML,0.0014,Alcohol,Alcohol - Spirits,Aperatifs,Casa Juilia plc
+1435,Pimms Double,Pimms50ml,0.847518,4,50ml,1,Alcohol,Alcohol - Spirits,Aperatifs,Trafalgar
+563,Piquillo Peppers,PiquilPep,0,9.5,Each,1,Food,Hot Food,,Trafalgar
+405,Plant Based Burger,PlantBurge,0,14,Each,1,Food,Hot Food,,Trafalgar
+9029,Plant Based Burger (v),PlantBurg,0,14.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+43,Post Mix,Post Mix,0,0,Each,1,Soft Drinks,,,Casa Juilia plc
+13,Postal Delivery,PostalDeli,0,0,Each,1,Merchandise,,,Trafalgar
+8019,Private Booking £20,PvtBook20,0,20,Each,1,Packages,,,Trafalgar
+1112,Private Booking £212.50,PvtBk212,0,212.5,Each,1,Packages,,,Trafalgar
+10000,Private Booking £30,PvtBook30,0,30,Each,1,Packages,,,Trafalgar
+8020,Private Booking £50,PvtBook50,0,50,Each,1,Packages,,,Trafalgar
+9026,Pumpkin Risotto (gf) (v),PumpkinRis,0,14.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+885,Ramon Bilbao (Component),RiojaBott,9.05,0,ML,0.0013,Alcohol,Alcohol - Wine,Red Wines,Enotria
+888,Ramon Bilbao 125ml,Rioja125ml,1.508635,8.5,125ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+887,Ramon Bilbao 175ml,Rioja175ml,2.111365,11.5,175ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+886,Ramon Bilbao 250ml,Rioja250ml,3.016365,15,250ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+889,Ramon Bilbao 750ml,Rioja750ml,9.05,45,Bottle,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+318,Ramon Bilbao Rioja Reserva,RiojaButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+395,Rarer Rum,Rarer,0,0,Each,1,Alcohol,Rum White,,Trafalgar
+361,Red Velvet Cake,Red Velvet,0,3.95,Each,1,Snacks,,,Trafalgar
+8052,Regular Coke 22oz,CokeMed,1.14475,3.8,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8057,Regular Diet Coke 22oz,DietMed,0.88605,3.8,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8062,Regular Fanta 22oz,FantaMed,0.88605,3.8,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8067,Regular Lemonade 22oz,LemonMed,0.93617,3.8,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+402,Roast Miso Aubergine Salad,MisoAuberg,0,8,Each,1,Food,Hot Food,,Trafalgar
+363,Rocky Road Traybake,Rocky Road,0,2.5,Each,1,Snacks,,,Trafalgar
+225,Rum,Rum,0,0,Each,1,Alcohol,Rum White,,Trafalgar
+9022,Salad of Roast Pumpkin,SaladPumpk,0,12.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+166,Salt Popcorn,SaltPopBut,0,0,Each,1,Popcorn,,,PCO Group (Popcorn)
+1501,Salt Popcorn (Component),SaltPop,49.5,0,G,0.0003,Popcorn,,,PCO Group (Popcorn)
+170,Salt Popcorn Kids,Kids £2.00,0,2,Each,1,Popcorn,,,PCO Group (Popcorn)
+172,Salt Popcorn Large,SaltPopL,2.871,5.95,Each,1,Popcorn,,,PCO Group (Popcorn)
+8011,Salt Popcorn Medium,SaltPopM,1.2375,4.95,Each,1,Popcorn,,,PCO Group (Popcorn)
+31,Salted Caramel,SaltCara,0.46,3.95,Each,1,Ice Cream,,,Marshfield Farm Ice Cream
+171,Salted Popcorn Small,Small£3.95,0,3.95,Each,1,Popcorn,,,PCO Group (Popcorn)
+125,Sambuca Russo (Component),SambucBott,12.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Liqueur,Casa Juilia plc
+1427,Sambuca Russo Double,Sambuc50ml,0.8925,4,50ml,1,Alcohol,Alcohol - Spirits,Liqueur,Trafalgar
+40,San Pellegrino,SanButt,0,0,Each,1,Parent Sale Button,,,Casa Juilia plc
+42,San Pellegrino Aranciata,SanAran,0.53,3.65,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+41,San Pellegrino Limonata,SanLimon,0.53,3.65,Each,1,Soft Drinks,Soft Drinks - Glass Bottle,,Casa Juilia plc
+183,Sandford's Cider,SandfordCi,1.01,5.5,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+9064,Sandwich & House Wine Red,SandwichHR,0.012452,7,Each,1,Food,,,Trafalgar
+9065,Sandwich & House Wine White,SandwichHW,0.170902,7,Each,1,Food,,,Trafalgar
+237,Schweppes,Schweppes,0,0,Each,1,Soft Drinks,,,Trafalgar
+1076,Scoop Large 60cc,Large 60cc,0.5,0,Each,1,Hot Drinks,,,Cafe Praego
+1077,Scoop Medium 43cc,Scoop Medi,0.5,0,Each,1,Hot Drinks,,,Cafe Praego
+299,Scotch Egg,ScotchEgg,0,7.5,Each,1,Food,Small Plates,,Trafalgar
+9027,Seared Sea Bass Fillet (gf),SeaBass,0,18,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+431,Selections of American Whiskey,AmericaSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+474,Selections of Aperatifs,ApertifSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+421,Selections of Blended Whiskey,BlendedSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+244,Selections of Bourbon Whisky,BourbonSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+436,Selections of Dark Rum,DarkRumSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+475,Selections of Digestives,DigestSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+241,Selections of Flavour Vodka,FlaVodkSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+432,Selections of Flavoured Gin,FlavGinSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+438,Selections of Flavoured Rum,FlavRumSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+224,Selections of Gin,GinSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+437,Selections of Gold Rum,GoldRumSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+245,Selections of Irish Whiskey,IrishSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+423,Selections of Japanese Whiskey,JapanSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+472,Selections of Liqueurs,LiqueurSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+478,Selections of Non-Alcoholic,NonAlcoSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+422,Selections of Rye Whiskey,RyeSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+420,Selections of Single Malt Whisky,MaltWhiSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+471,Selections of Tequila Gold,TeqGoldSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+476,Selections of Tequila Silver,TeqSilvSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+477,Selections of Vermouth,VermoutSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+226,Selections of Vodka,VodkaSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+435,Selections of White Rum,WhitRumSet,0,0,Each,1,Parent Sale Button,,,Trafalgar
+383,Semi-skimmed milk,Semi-skim,0,0,Each,1,Hot Drinks,,,Trafalgar
+1111,Sharer Platter,SharePlatt,0,18,Each,1,Food,Hot Food,,Trafalgar
+409,Sherbet Lemons,SherbLemon,1.55,4.1,Each,1,Confectionary,,,Trafalgar
+9063,SilverScreen Coffee and Muffin,SilvCoffee,0.000479,4,Each,1,Food,,,Trafalgar
+1463,Sipsmith Lemon Drizzle,SipLemButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1462,Sipsmith Lemon Drizzle Double,SipLem50ml,1.3566,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+300,Sipsmith Lemon Drizzle Gin (Component),SipLemBott,19,0,ML,0.002,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+1461,Sipsmith Lemon Drizzle Single,SipLem25ml,0.6783,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+385,Skimmed Milk,Skimmed,0,0,Each,1,Hot Drinks,,,Trafalgar
+364,Slice Traybake,SliceTrayb,0,2.5,Each,1,Snacks,Desserts,,Trafalgar
+455,Sloe Gin Spritz,SloeSpritz,2.45595,12.5,Each,1,Alcohol,,,Trafalgar
+800,Small 0.4,Small0.4,0,3.5,Each,1,Soft Drinks,,,Trafalgar
+8051,Small Coke 16oz,CokeSmall,0.83145,3.5,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8056,Small Diet Coke 16oz,DietSmall,0.6435,3.5,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8061,Small Fanta 16oz,FantaSmall,0.6435,3.5,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+8066,Small Lemonade 16oz,LemonSmall,0.6799,3.5,Oz,1,Soft Drinks,Soft Drinks - Postmix,,Casa Juilia plc
+216,Smoked Almonds,Smoke Almo,0,5,Each,1,Food,Small Plates,,Trafalgar
+1307,Snow Queen Double,SnowQ50ml,1.62792,9.9,50ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1306,Snow Queen Single,SnowQ25ml,0.81396,4.95,25ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1308,Snow Queen Vodka,SnowQButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+85,Snow Queen Vodka (Component),SnowQBott,22.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka,Casa Juilia plc
+9043,SnufflingPig Black Pepper Crackling 45g,BlackPepp,0.72,1.9,Each,1,Snacks,,,Snaffling Pig Co.
+9041,SnufflingPig Caramelised Honey/Chilli Peanuts 45g,H/CPeanuts,0.416667,1.4,Each,1,Snacks,,,Snaffling Pig Co.
+9046,SnufflingPig Chorizo Packet Bites 50g,ChorizBite,1.45,2.65,Each,1,Snacks,,,Snaffling Pig Co.
+9044,SnufflingPig Low & Slow BBQ Crackling 45g,L&SBBQ,0.72,1.9,Each,1,Snacks,,,Snaffling Pig Co.
+9038,SnufflingPig Marvellous Maple Porky Puffs 25g,MaplePuffs,0.716667,1.75,Each,1,Snacks,,,Snaffling Pig Co.
+9045,SnufflingPig Perfectly Salted Crackling 45g,SaCracklin,0.72,1.9,Each,1,Snacks,,,Snaffling Pig Co.
+9042,SnufflingPig Perfectly Salted Peanuts 45g,SaltPeanut,0.333333,1.4,Each,1,Snacks,,,Snaffling Pig Co.
+9039,SnufflingPig Perfectly Salted Porky Puffs 25g,SaltPuffs,0.716667,1.75,Each,1,Snacks,,,Snaffling Pig Co.
+9040,SnufflingPig Sriracha Porky Puffs 25g,SriracPuff,0.716667,1.75,Each,1,Snacks,,,Snaffling Pig Co.
+235,Soft Drinks,Soft Drink,0,0,Each,1,Soft Drinks,,,Trafalgar
+1108,SOTD £16.50,SOTD 16.50,0,16.5,Each,1,Food,Hot Food,,Trafalgar
+1099,SOTD £7.50,SOTD£7.50,0,7.5,Each,1,Food,Hot Food,,Trafalgar
+1098,SOTD £8.50,SOTD £8.50,0,8.5,Each,1,Food,Hot Food,,Trafalgar
+9006,SOTD28,SOTD28,0,28,Each,1,Food,Hot Food,,Trafalgar
+9025,Soup of the Day,SoupOfDay,0,6,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+386,Soy Milk,Soy,0,0,Each,1,Hot Drinks,,,Trafalgar
+513,Sparkling Wine,Sparkling ,0,0,Each,1,Alcohol,Alcohol - Wine,,Enotria
+9000,Special of The Day,SpcialButt,0,0,Each,1,Food,Hot Food,,Trafalgar
+9001,Special of The Day 1,SOTD850,0,8.5,Each,1,Food,Hot Food,,Trafalgar
+9066,Special of The Day 1450,SOTD1450,0,14.5,Each,1,Food,Hot Food,,Trafalgar
+9002,Special of The Day 2,SOTD7,0,7,Each,1,Food,Hot Food,,Trafalgar
+9003,Special of The Day 3,SOTD950,0,9.5,Each,1,Food,Hot Food,,Trafalgar
+9004,Special of The Day 4,SOTD1250,0,12.5,Each,1,Food,Hot Food,,Trafalgar
+9005,Special of The Day 5,SOTD1650,0,16.5,Each,1,Food,Hot Food,,Trafalgar
+9069,Special of The Day 7,SOTD1500,0,15,Each,1,Food,Hot Food,,Trafalgar
+8010,Splash Mixer,SplashMix,0,1.5,Each,1,Soft Drinks,,,Trafalgar
+1421,St Germain Double,StGerm50ml,1.3923,4,50ml,1,Alcohol,Alcohol - Spirits,Liqueur,Trafalgar
+123,St Germain Elderflower Liqueur (Component),StGermBott,19.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Liqueur,Casa Juilia plc
+9060,Staff Drinks,StaffDrink,0,0,Each,1,Comps,,,Trafalgar
+580,Stiegl Goldbrau Lager,StieglButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+658,Stiegl Goldbrau Lager Half,StieglHalf,0.759639,3.7,HP,1,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+173,Stiegl Goldbrau Lager Keg (Component),StieglKeg,133.27,0,Pint,0.0113,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+659,Stiegl Goldbrau Lager Pint,StieglPint,1.505951,7.4,Pint,1,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+1316,Stolich Raspberry Double,SRasp50ml,1.19238,9.3,50ml,1,Alcohol,Alcohol - Spirits,Vodka Flavoured,Trafalgar
+1315,Stolich Raspberry Single,SRasp25ml,0.59619,4.65,25ml,1,Alcohol,Alcohol - Spirits,Vodka Flavoured,Trafalgar
+1319,Stolich S.Caramel Double,SCara50ml,1.19238,9.3,50ml,1,Alcohol,Alcohol - Spirits,Vodka Flavoured,Trafalgar
+1318,Stolich S.Caramel Single,SCara25ml,0.59619,4.65,25ml,1,Alcohol,Alcohol - Spirits,Vodka Flavoured,Trafalgar
+1310,Stolichanaya Double,Stoli50ml,0.92463,9.3,50ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1317,Stolichanaya Raspberry Vodka,SRaspButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+88,Stolichanaya Raspberry Vodka (Component),SRaspBott,16.7,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka Flavoured,Casa Juilia plc
+1320,Stolichanaya S.Caramel Vodka,SCaraButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+89,Stolichanaya S.Caramel Vodka (Component),SCaraBott,16.7,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka Flavoured,Casa Juilia plc
+1309,Stolichanaya Single,Stoli25ml,0.462315,4.65,25ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1311,Stolichanaya Vodka,StoliButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+86,Stolichanaya Vodka (Component),StoliBott,12.95,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka,Casa Juilia plc
+27,Straw,Straw,0.02,0,Each,1,Disposables,,,Trafalgar
+32,Strawberries&Cream,StrawCream,0.46,3.95,Each,1,Ice Cream,,,Marshfield Farm Ice Cream
+220,Stuffed Piquillo Peppers,Piquillo P,16.75,9.5,Each,1,Food,Small Plates,,Trafalgar
+1089,Sugar Sachets Brown 1x1000,Sugar,6.82,0,Each,1,Hot Drinks,,,Cafe Praego
+1088,Sugar Sachets White 1x1000,Sugar,6.42,0,Each,1,Hot Drinks,,,Cafe Praego
+1389,Suntori Toki,TokiButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1388,Suntori Toki Double,Toki50ml,1.5708,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Japan,Trafalgar
+1387,Suntori Toki Single,Toki25ml,0.7854,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Japan,Trafalgar
+112,Suntori Toki Whisky (Component),TokiBott,22,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Japan,Casa Juilia plc
+165,Sweet Popcorn,SweePopBut,0,0,Each,1,Popcorn,,,PCO Group (Popcorn)
+1500,Sweet Popcorn (Component),SweetPop,60.25,0,G,0.0002,Popcorn,,,PCO Group (Popcorn)
+167,Sweet Popcorn Kids,Kids £2.00,0,2,Each,1,Popcorn,,,PCO Group (Popcorn)
+169,Sweet Popcorn Large,SweetPopL,5.826175,5.95,Each,1,Popcorn,,,PCO Group (Popcorn)
+8012,Sweet Popcorn Medium,SweetPopM,2.512425,4.95,Each,1,Popcorn,,,PCO Group (Popcorn)
+168,Sweet Popcorn Small,Small£3.95,0,3.95,Each,1,Popcorn,,,PCO Group (Popcorn)
+9032,Sweet Potato Chips (ve),SweetChips,0,6,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+611,Sweet Potatoes,SweetPot,0,6,Each,1,Food,Hot Food,,Trafalgar
+1057,Sweetbird Almond Syrup,Almond Syr,9.95,0,Each,1,Hot Drinks,,,Cafe Praego
+1058,Sweetbird Caramel Syrup,Caramel Sy,9.95,0,Each,1,Hot Drinks,,,Cafe Praego
+1075,Sweetbird Chocolate Frappe,Frappe,26.25,0,Each,1,Hot Drinks,,,Cafe Praego
+1059,Sweetbird English Toffee,Toffee Syr,9.95,0,Each,1,Hot Drinks,,,Cafe Praego
+1060,Sweetbird Hazelnut Syrup,Hazelnut,9.95,0,Each,1,Hot Drinks,,,Cafe Praego
+1061,Sweetbird Honeycomb Syrup,Honeycomb,9.95,0,Each,1,Hot Drinks,,,Cafe Praego
+1065,Sweetbird Mango Pfruit Smoothie,Mango Pfru,52.5,0,Each,1,Hot Drinks,,,Cafe Praego
+1062,Sweetbird P/fruit Lemon Iced Tea,Lemon Iced,9.95,0,Each,1,Hot Drinks,,,Cafe Praego
+1063,Sweetbird Peach Iced Tea Syrup,Peach Ice,9.95,0,Each,1,Hot Drinks,,,Cafe Praego
+1066,Sweetbird Syrup Pump,Syrup Pump,2.95,0,Each,1,Hot Drinks,,,Cafe Praego
+1064,Sweetbird Vanilla Syrup,Vanilla Sy,9.95,0,Each,1,Hot Drinks,,,Cafe Praego
+1090,T&L Brown Sugar Cubes 8x1kg,Sugar cube,6.82,0,Each,1,Hot Drinks,,,Cafe Praego
+1344,Talisker 10yr,TaliskButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1343,Talisker 10yr Double,Talisk50ml,2.2491,11.9,50ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+1342,Talisker 10yr Single,Talisk25ml,1.12455,5.95,25ml,1,Alcohol,Alcohol - Spirits,Whisky Single Malt,Trafalgar
+97,Talisker 10yr Whisky (Component),TaliskBott,31.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Single Malt,Casa Juilia plc
+1232,Tanqueray 10 Double,10Tanq50ml,1.6175,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1233,Tanqueray 10 Gin,10TanqButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+60,Tanqueray 10 Gin (Component),10TanqBott,32.35,0,ML,0.001,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1231,Tanqueray 10 Single,10Tanq25ml,0.80875,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1229,Tanqueray Double,Tanq50ml,2.30979,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1230,Tanqueray Gin,TanqButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1093,Tanqueray Gin (Component),TanqBott,32.35,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+139,Tanqueray Non Alcoholic Gin (Component),Tanq0%Bott,11.65,0,ML,0.0014,Alcohol,Alcohol - Spirits,Non-Alcoholic,Casa Juilia plc
+1430,Tanqueray Non-Alc Double,Tanq0%50ml,0.83181,8.9,50ml,1,Alcohol,Alcohol - Spirits,Non-Alcoholic,Trafalgar
+1429,Tanqueray Non-Alc Single,Tanq0%25ml,0.415905,4.45,25ml,1,Alcohol,Alcohol - Spirits,Non-Alcoholic,Trafalgar
+1431,Tanqueray Non-Alcoholic,Tanq0%Butt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1228,Tanqueray Single,Tanq25ml,1.154895,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+270,Tasty Tuesday,TastyTues,0,5.5,Each,1,Food,,,Trafalgar
+1095,TastyTuesday - Sliders,Sliders,0,5.5,Each,1,Food,Hot Food,,Trafalgar
+381,Tea,Tea,0,3.75,Each,1,Hot Drinks,,,Trafalgar
+382,Tea For Screen,TeaScreen,0,2,Each,1,Hot Drinks,,,Trafalgar
+1056,Teapigs Temple Earl Grey Strong (26) 6x15,Tea,23.94,0,Each,1,Hot Drinks,,,Cafe Praego
+1084,Teapigs Temple Everyday Brew 4001 6x50,Tea,54,0,Each,1,Hot Drinks,,,Cafe Praego
+1086,Teapigs Temple Lemon & Ginger (20) 6x15,Tea,26.94,0,Each,1,Hot Drinks,,,Cafe Praego
+1085,Teapigs Temple Mao Feng Green 4006 6x50,Tea,62,0,Each,1,Hot Drinks,,,Cafe Praego
+564,Tempura of Smoked Haddock,TempurHadd,0,16.5,Each,1,Food,Hot Food,,Trafalgar
+1506,The Batman Cocktails,Batman2022,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1235,The Botanist Double,Botan50ml,1.80642,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+1236,The Botanist Gin,BotanButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+61,The Botanist Gin (Component),BotanBott,25.3,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin,Casa Juilia plc
+1234,The Botanist Single,Botan25ml,0.90321,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin,Trafalgar
+9030,The Chiswick Cinema Double Burger,DBurger,0,16,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+9028,The Chiswick Hotdog,HotDog,0,10.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+1504,The Detective Cocktail,Detective,1.2992,8.5,Each,1,Alcohol,,,Trafalgar
+1277,The Duppy Share Double,Duppy50ml,1.35303,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum Gold,Trafalgar
+1278,The Duppy Share Rum,DuppyButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+76,The Duppy Share Rum (Component),DuppyBott,18.95,0,ML,0.0014,Alcohol,Alcohol - Spirits,Rum Gold,Casa Juilia plc
+1276,The Duppy Share Single,Duppy25ml,0.676515,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum Gold,Trafalgar
+1505,The Enigma Cocktail,Enigma,0.1155,8.5,Each,1,Alcohol,,,Trafalgar
+9047,The Snuffling Pig Co,SnuffPButt,0,0,Each,1,Snacks,,,Trafalgar
+316,The Stump Shiraz,Shiraz Stm,0,0,Each,1,Alcohol,Alcohol - Wine,,Enotria
+185,Thronbridge Porter,ThornPort,1.3,5.5,Each,1,Alcohol,Alcohol - Beer,,Euroboozer Ltd
+860,Tinto Sobre Lias (Component),TintoBott,5.1,0,ML,0.0013,Alcohol,Alcohol - Wine,Red Wines,Enotria
+861,Tinto Sobre Lias 125ml,Tinto125ml,0.85017,4.5,125ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+862,Tinto Sobre Lias 175ml,Tinto175ml,1.18983,5.9,175ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+863,Tinto Sobre Lias 250ml,Tinto250ml,1.69983,8.1,250ml,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+865,Tinto Sobre Lias 750ml,Tinto750ml,5.1,24,Bottle,1,Alcohol,Alcohol - Wine,Red Wines,Enotria
+314,Tinto Sobre Lias Care,TintoButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1205,Tio Pepe,TioButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+51,Tio Pepe (Component),TioBott,8.87,0,ML,0.0014,Alcohol,Alcohol - Spirits,Sherry,Casa Juilia plc
+1204,Tio Pepe Double,Tio50ml,0.591629,4.05,50ml,1,Alcohol,Alcohol - Spirits,Sherry,Trafalgar
+1203,Tio Pepe Single,Tio25ml,0.295371,2,25ml,1,Alcohol,Alcohol - Spirits,Sherry,Trafalgar
+9033,Tiramisu,Tiramisu,0,7,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+1313,Tito's Double,Tito50ml,1.41372,9.3,50ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1312,Tito's Single,Tito25ml,0.70686,4.65,25ml,1,Alcohol,Alcohol - Spirits,Vodka,Trafalgar
+1314,Tito's Vodka,TitoButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+87,Tito's Vodka (Component),TitoBott,19.8,0,ML,0.0014,Alcohol,Alcohol - Spirits,Vodka,Casa Juilia plc
+9061,TrafEnt Staff Discount - 10%,TrafEnt10%,0,0,Each,1,Comps,,,Trafalgar
+656,TrafLagar Half,TrafHalf,0.583167,3,HP,1,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+657,TrafLagar Pint,TrafPint,1.166334,6,Pint,1,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+174,TrafLager,TrafButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+332,TrafLager Keg (Component),TrafKeg,102.31,0,Pint,0.0114,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+8031,Turkey Burger,TurkeyBurg,0,16,Each,1,Food,Hot Food,Season Menu,Trafalgar
+8026,Tyrell Crisps,Tyrells,0,0,Each,1,Snacks,,,Trafalgar
+8023,Tyrell's Cheese & Chive 40g,TyrellChee,0,1.75,Each,1,Snacks,,,Trafalgar
+9009,Tyrell's Salt Pepper 150g,TyrellPepp,0,3.25,Each,1,Snacks,,,Trafalgar
+8024,Tyrell's Sea Salt 150g,TyrellSea,0,3.25,Each,1,Snacks,,,Trafalgar
+8029,Tyrell's Sea Salt 40g,Tyrell Sal,0,1.75,Each,1,Snacks,,,Trafalgar
+8025,Tyrell's Vegetable 40g,TyrellVege,0,1.75,Each,1,Snacks,,,Trafalgar
+15,Under 25 One Off Subscription,U251OffSub,0,25,Each,1,Packages,,,Trafalgar
+3,Under 25 Subscription,U25Sub,0,25,Each,1,Packages,,,Trafalgar
+175,Upright IPA (Button),UpIPAButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+660,Upright IPA Half,UpIPAHalf,0.68514,3.4,HP,1,Alcohol,Alcohol - Beer,Kegs,Trafalgar
+668,Upright IPA Keg (Component),UpIPAKeg,72.12,0,Pint,0.0189,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+661,Upright IPA Pint,UpIPAPint,1.363068,6.8,Pint,1,Alcohol,Alcohol - Beer,Kegs,Euroboozer Ltd
+9067,Valentines Day Special,ValentineS,4.247126,20,Each,1,Food,,,Trafalgar
+29,Vanilla Clotted Cream,VanClot,0.46,3.95,Each,1,Ice Cream,,,Marshfield Farm Ice Cream
+410,Vegan Fruit Jellies,FruitJelli,1.4,4.1,Each,1,Confectionary,,,Trafalgar
+406,Wagyu Beef Burger,WagyuBurge,0,18,Each,1,Food,Hot Food,,Trafalgar
+227,Whisky,Whisky,0,0,Each,1,Alcohol,Whisky Single Malt,,Trafalgar
+1466,Whitley Neill Parma Violet,WhitPaButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1465,Whitley Neill Parma Violet Double,WhitPa50ml,1.29948,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+67,Whitley Neill Parma Violet Gin (Component),WhitPaBott,18.2,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin Flavoured,Casa Juilia plc
+1464,Whitley Neill Parma Violet Single,WhitPa25ml,0.64974,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+1469,Whitley Neill Rhubarb & Ginger,WhitRhButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1468,Whitley Neill Rhubarb & Ginger Double,WhitRh50ml,1.29948,9.3,50ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+68,Whitley Neill Rhubarb & Ginger Gin (Component),WhitRhBott,18.2,0,ML,0.0014,Alcohol,Alcohol - Spirits,Gin Flavoured,Casa Juilia plc
+1467,Whitley Neill Rhubarb & Ginger Single,WhitRh25ml,0.64974,4.65,25ml,1,Alcohol,Alcohol - Spirits,Gin Flavoured,Trafalgar
+963,Wigmore,Wigmore,0,4.5,Each,1,Food,Hot Food,,Trafalgar
+9020,Wild Mushroom Crostini (v),WildMush,0,11.5,Each,1,Food,Hot Food,Winter Menu,Trafalgar
+1092,Wooden Stirrers 14cm 1x1000,Stirrers,4.55,0,Each,1,Hot Drinks,,,Cafe Praego
+1377,Woodford Reserve,WoodButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1376,Woodford Reserve Double,Wood50ml,1.72788,9.7,50ml,1,Alcohol,Alcohol - Spirits,Whisky Bourbon,Trafalgar
+111,Woodford Reserve Rye Whisky (Component),WoodRBott,33.5,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Rye,Casa Juilia plc
+1375,Woodford Reserve Single,Wood25ml,0.86394,4.85,25ml,1,Alcohol,Alcohol - Spirits,Whisky Bourbon,Trafalgar
+108,Woodford Reserve Whisky (Component),WoodBott,24.2,0,ML,0.0014,Alcohol,Alcohol - Spirits,Whisky Bourbon,Casa Juilia plc
+1386,Woodford Rye,WoodRButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+1385,Woodford Rye Double,WoodR50ml,2.3919,12.8,50ml,1,Alcohol,Alcohol - Spirits,Whisky Rye,Trafalgar
+1384,Woodford Rye Single,WoodR25ml,1.19595,6.4,25ml,1,Alcohol,Alcohol - Spirits,Whisky Rye,Trafalgar
+1259,Wray & Nephew Double,Wray50ml,0.002173,9.3,50ml,1,Alcohol,Alcohol - Spirits,Rum White,Trafalgar
+1260,Wray & Nephew Overproof Rum,WrayButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+71,Wray & Nephew Overproof Rum (Component),WrayBott,0.030429,4.65,ML,0.0014,Alcohol,Alcohol - Spirits,Rum White,Casa Juilia plc
+1258,Wray & Nephew Single,Wray25ml,0.001086,4.65,25ml,1,Alcohol,Alcohol - Spirits,Rum White,Trafalgar
+810,Yealands Estate,EstatButt,0,0,Each,1,Parent Sale Button,,,Trafalgar
+811,Yealands Estate (Component),EstatBott,6.15,0,ML,0.0013,Alcohol,Alcohol - Wine,White Wines,Enotria
+677,Yealands Estate 125ml,Estat125ml,1.025205,4.5,125ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+667,Yealands Estate 175ml,Estat175ml,1.434795,6.1,175ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+670,Yealands Estate 250ml,Estat250ml,2.049795,8.5,250ml,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+671,Yealands Estate 750ml,Estat750ml,6.15,25,Bottle,1,Alcohol,Alcohol - Wine,White Wines,Enotria
+1087,Zuma Organic Matcha 12x100g,Matcha,97,0,Each,1,Hot Drinks,,,Cafe Praego
+1054,Zuma Original Chocolate Tin ,Zuma Origi,17.6,0,Each,1,Hot Drinks,,,Cafe Praego
+1072,Zuma Original Cocoa Shaker,Cocoa,3.33,0,Each,1,Hot Drinks,,,Cafe Praego
+1073,Zuma Original Hot Chocolate (Component),ZumaChoc,60.4,0,G,0.001,Hot Drinks,Hot Drinks - Hot Chocolate,,Cafe Praego
+1074,Zuma Spiced Chai 1,Spiced Cha,13.2,0,Each,1,Hot Drinks,,,Cafe Praego
+198,zzzHot Dog,HotDog,2.5,8,Each,1,Food,Hot Food,,Trafalgar
+199,zzzWagyu Beef Burger,Beef Burge,2.5,6.9,Each,1,Food,Hot Food,,Trafalgar
