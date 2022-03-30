@@ -1,0 +1,22 @@
+#containerHead {
+    background: url("/img/gif/WaveyColors.gif");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 10px;
+    max-width: 1000px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.businessTitle {
+    font-size: 60px;
+    font-family: "Monsieur La Doulaise";
+    stroke-linejoin: round;
+    text-anchor: middle;
+    fill: black;
+    stroke: white;
+    stroke-width: 5px;
+    paint-order: stroke;
+}
