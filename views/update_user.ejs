@@ -22,32 +22,44 @@ include('include/_navBar')
                 <div class="form-group">
                     <label for="name" class="text-light">Name: </label>
                     <input type="hidden" name="id" value="<%=user._id%>">
-                    <input type="text" name="name" value="<%=user.name%>" placeholder="The Name">
+                    <input type="text" name="name" value="<%=user.name%>" placeholder="">
                 </div>
                 <div class="form-group">
-                    <label for="email" class="text-light">Email: </label>
-                    <input type="text" name="email" value="<%=user.email%>" placeholder="ie@hotmail.com">
+                    <label for="lname" class="text-light">Email: </label>
+                    <input type="text" name="lname" value="<%=user.lname%>" placeholder="">
                 </div>
                 <div class="form-group">
-                    <label for="gender" class="text-light">Gender: </label>
-                    <div class="radio inline">
-                        <input type="radio" id="radio-2" name="gender" value="Male">
-                        <label for="radio-2" class="radio-label">Male</label>
-                    </div>
-                    <div class="radio inline">
-                        <input type="radio" id="radio-3" name="gender" value="Female">
-                        <label for="radio-3" class="radio-label">Female</label>
-                    </div>
+                    <label for="usergroup" class="text-light">User Group: </label>
+                    <input type="text" name="usergroup" value="<%=user.usergroup%>" placeholder="Staff / Manager / Admin">
                 </div>
                 <div class="form-group">
-                    <label for="gender" class="text-light">Status: </label>
+                    <label for="userlang" class="text-light">User Language: </label>
+                    <input type="text" name="userlang" value="<%=user.userlang%>" placeholder="English / Spanish / French">
+                </div>
+        
+                <div class="form-group">
+                    <label for="username" class="text-light">Username: </label>
+                    <input type="text" name="username" value="<%=user.username%>" placeholder="Enter a username">
+                </div>
+                <div class="form-group">
+                    <label for="password" class="text-light">Username: </label>
+                    <input type="text" name="password" value="<%=user.password%>" placeholder="Add a password">
+                </div>
+        
+                <div class="form-group">
+                    <label for="area" class="text-light">Work Area: </label>
+                    <input type="text" name="area" value="<%=user.area%>" placeholder="Add a Work Area">
+                </div>               
+
+                <div class="form-group">
+                    <label for="gender" class="text-light">User Enabled: </label>
                     <div class="radio inline">
                         <input type="radio" id="radio-4" name="status" value="Active">
-                        <label for="radio-4" class="radio-label">Active</label>
+                        <label for="radio-4" class="radio-label">Yes</label>
                     </div>
                     <div class="radio inline">
                         <input type="radio" id="radio-5" name="status" value="Inactive">
-                        <label for="radio-5" class="radio-label">Inactive</label>
+                        <label for="radio-5" class="radio-label">No</label>
                     </div>
                 </div>
                 <div class="form-group">

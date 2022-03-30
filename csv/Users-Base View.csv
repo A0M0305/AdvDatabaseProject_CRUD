@@ -1,0 +1,94 @@
+﻿name,lname,usergroup,userlang,username,password,area,status
+Abigail,Willcocks,Staff,English,Abigail,,Default Work Area,Yes
+Aizea,Alliu-Acedo,Staff,English,Aizea,,Default Work Area,No
+Alberto,SysAdmin,SysAdmin,English,Alberto,,Default Work Area,Yes
+Alberto,ForTesting,Staff,English,Alberto,,Default Work Area,Yes
+Alessio,Puglisi,Staff,English,Alessio,,Default Work Area,Yes
+Ali,Moradi,Staff,English,Ali,,Default Work Area,Yes
+Amelia,Scarlett,Staff,English,Amelia,,Default Work Area,Yes
+Amy,Jackson-Ives,Staff,English,Amy,,Default Work Area,Yes
+Andrew,Da Costa,Staff,English,Andrew,,Default Work Area,Yes
+Bradley,Ukpetenan,Staff,English,Bradley,,Default Work Area,Yes
+Cara,Hermit,Staff,English,Cara,,Default Work Area,Yes
+Carlos,Rodrigues,Staff,English,Carlos,,Default Work Area,Yes
+Chris,Parker,SysAdmin,English,Chris,,Default Work Area,Yes
+Christina,Maschi,Staff,English,Christina,,Default Work Area,Yes
+Ciara,Mallon,Staff,English,Ciara,,Default Work Area,No
+Clara,Ramirez Rozzi,Staff,English,Clara,,Default Work Area,No
+Daniel,Apochi,Staff,English,Daniel,,Default Work Area,No
+Daniel,Burgess,Staff,English,Daniel,,Default Work Area,Yes
+Dario,De Luca,Staff,English,Dario,,Default Work Area,Yes
+Declan,Miele-Howell,Staff,English,Declan,,Default Work Area,Yes
+Ellana ,Pink,Staff,English,Ellana ,,Default Work Area,No
+Elle,Downey,Staff,English,Elle,,Default Work Area,Yes
+Esther,Oladele,Staff,English,Esther,,Default Work Area,Yes
+Evelyn,Faccion,Staff,English,Evelyn,,Default Work Area,Yes
+Federico,Tamburini,SysAdmin,English,Federico,,Default Work Area,Yes
+Filippo,Romano,Staff,English,Filippo,,Default Work Area,No
+Florence ,Williams,SysAdmin,English,Florence ,,Default Work Area,Yes
+Freddie,Fair Lander,Staff,English,Freddie,,Default Work Area,Yes
+Gobind,Mehmi,Staff,English,Gobind,,Default Work Area,No
+Hannah,Moyce,Staff,English,Hannah,,Default Work Area,No
+Helena,Kecojevic,Staff,English,Helena,,Default Work Area,Yes
+Iggie,Panepinto,SysAdmin,English,Iggie,,Default Work Area,Yes
+Ilona,Kapura,Staff,English,Ilona,,Default Work Area,No
+Irini,Hyseni,Staff,English,Irini,,Default Work Area,Yes
+Irini,Hyseni,Staff,English,Irini,,Default Work Area,Yes
+Isaac,Lewis,Staff,English,Isaac,,Default Work Area,Yes
+Jada,Joseph,Staff,English,Jada,,Default Work Area,No
+Jade,Messam,Staff,English,Jade,,Default Work Area,Yes
+James,Laiyan-Jones,Staff,English,James,,Default Work Area,No
+Jenny,Mutlene,Staff,English,Jenny,,Default Work Area,Yes
+Jim,Parker,Manager,English,Jim,,Default Work Area,Yes
+Jodie,Hall,Staff,English,Jodie,,Default Work Area,Yes
+Joel,Harvey,Staff,English,Joel,,Default Work Area,Yes
+John,Beirne,SysAdmin,English,John,,Default Work Area,Yes
+Joycelynn,Dandjinou,Staff,English,Joycelynn,,Default Work Area,Yes
+Kathryn,Smith,SysAdmin,English,Kathryn,,Default Work Area,Yes
+Katie,Wood,SysAdmin,English,Katie,,Default Work Area,Yes
+Kaylah,Ororo-Turner,Staff,English,Kaylah,,Default Work Area,Yes
+Keara,Broadbent,Staff,English,Keara,,Default Work Area,No
+Keiichi,Furuya,SysAdmin,English,Keiichi,,Default Work Area,Yes
+Kyle ,Masih,Staff,English,Kyle ,,Default Work Area,No
+Leigh,Tate,Staff,English,Leigh,,Default Work Area,No
+Lia,Downes,Staff,English,Lia,,Default Work Area,Yes
+Lola,Fried-Jones,Staff,English,Lola,,Default Work Area,No
+Luke,Hutchings,Staff,English,Luke,,Default Work Area,No
+Mateusz,Grochowski,Staff,English,Mateusz,,Default Work Area,No
+Maya,Fabrizio,Staff,English,Maya,,Default Work Area,No
+Megan,Kinsella,Staff,English,Megan,,Default Work Area,Yes
+Megan,Anderson,Staff,English,Megan,,Default Work Area,Yes
+Mia,Petryszyn,Staff,English,Mia,,Default Work Area,Yes
+Monica,Parreira,Staff,English,Monica,,Default Work Area,Yes
+Mumtaz,Ibrahim,Staff,English,Mumtaz,,Default Work Area,No
+Nazira,Ahmed,Staff,English,Nazira,,Default Work Area,No
+Nico,Sorvillo,Manager,English,Nico,,Default Work Area,Yes
+Nigel,Staff,Staff,English,Nigel,,Default Work Area,No
+Oleksiy,Andronyak,Staff,English,Oleksiy,,Default Work Area,Yes
+Olivia,Administrator,SysAdmin,English,Olivia,,Default Work Area,No
+Oscar,Perriman,Staff,English,Oscar,,Default Work Area,Yes
+Radwa,Staff,Staff,English,Radwa,,Default Work Area,No
+Reece,English,Staff,English,Reece,,Default Work Area,No
+Renee,Thomas,Staff,English,Renee,,Default Work Area,No
+Robert,Taylor,SysAdmin,English,Robert,,Default Work Area,Yes
+Ryanna,Allen,Staff,English,Ryanna,,Default Work Area,Yes
+Saif,Staff,Staff,English,Saif,,Default Work Area,No
+Sajan,Rajpoot,Staff,English,Sajan,,Default Work Area,No
+Sam,Butler,SysAdmin,English,Sam,,Default Work Area,Yes
+Samira,Farah,Staff,English,Samira,,Default Work Area,Yes
+Seynab,Ismail,Staff,English,Seynab,,Default Work Area,No
+Shavae,Faucher,Staff,English,Shavae,,Default Work Area,No
+Sheldon-Grace,Abina-Davis,Staff,English,Sheldon-Grace,,Default Work Area,Yes
+Shivajini,Sivlogan,Manager,English,Shivajini,,Default Work Area,Yes
+Stefania,Zuodar,Staff,English,Stefania,,Default Work Area,No
+Steven,Johnson,Staff,English,Steven,,Default Work Area,No
+System,Administrator,SysAdmin,English,System,,Default Work Area,Yes
+Tamarah,Asassa,Staff,English,Tamarah,,Default Work Area,No
+Tracy,Berens,Manager,English,Tracy,,Default Work Area,Yes
+Tyrone,Throp,Staff,English,Tyrone,,Default Work Area,Yes
+Vince,Jarvis,Manager,English,Vince,,Default Work Area,Yes
+Vista,Administrator,Manager,English,Vista,,Default Work Area,Yes
+Vista,Support,SysAdmin,English,Vista,,Default Work Area,Yes
+VISTASUPPORT,Support,SysAdmin,English,VISTASUPPORT,,Default Work Area,Yes
+William,Loader,Staff,English,William,,Default Work Area,Yes
+Yann,Pivtoran,Staff,English,Yann,,Default Work Area,Yes

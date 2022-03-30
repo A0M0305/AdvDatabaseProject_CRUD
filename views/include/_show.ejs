@@ -2,8 +2,12 @@
 <tr>
     <td><%= i %></td>
     <td><%= users[i].name %></td>
-    <td><%= users[i].email %></td>
-    <td><%= users[i].gender %></td>
+    <td><%= users[i].lname %></td>
+    <td><%= users[i].usergroup %></td>
+    <td><%= users[i].userlang %></td>
+    <td><%= users[i].username %></td>
+    <td><%= users[i].password %></td>
+    <td><%= users[i].area %></td>
     <td><%= users[i].status %></td>
     <td>
         <a href="/update_user?id=<%=users[i]._id%>" class="btn border-shadow update">

@@ -5,12 +5,30 @@ var schema=new mongoose.Schema({
         type: String,
         require: true
     },
-    email:{
+    lname:{
         type: String,
-        require:true,
-        unique: true
+        require:true
     },
-    gender: String,
+    usergroup:{
+        type:String,
+        require
+    },
+    userlang:{
+        type:String,
+        require
+    },
+    username:{
+        type:String,
+        require
+    },
+    password:{
+        type:String,
+        require
+    },
+    area:{
+        type:String,
+        require
+    },
     status: String
 })
 
