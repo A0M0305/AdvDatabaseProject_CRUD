@@ -13,7 +13,7 @@ var schema=new mongoose.Schema({
         type:String,
         require
     },
-    userlang:{
+    userno:{
         type:String,
         require
     },
@@ -22,6 +22,10 @@ var schema=new mongoose.Schema({
         require
     },
     password:{
+        type:String,
+        require
+    },
+    userpin:{
         type:String,
         require
     },

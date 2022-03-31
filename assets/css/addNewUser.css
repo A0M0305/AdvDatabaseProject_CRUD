@@ -21,14 +21,14 @@
     }
 
 #update_user .form-group input[type="password"]{
-    width: 100%;
+    width: 80%;
     padding: 10px 2px;
     margin: 10px 0;
     border: 1px solid var(--border);
     border-radius: 10px;
 }
     #add_user .form-group input[type="password"]{
-        width: 100%;
+        width: 80%;
         padding: 10px 2px;
         margin: 10px 0;
         border: 1px solid var(--border);
@@ -36,14 +36,14 @@
     }
 
 #update_user .form-group input[type="text"]{
-    width: 100%;
+    width: 80%;
     padding: 10px 2px;
     margin: 10px 0;
     border: 1px solid var(--border);
     border-radius: 10px;
 }
     #add_user .form-group input[type="text"]{
-        width: 100%;
+        width: 80%;
         padding: 10px 2px;
         margin: 10px 0;
         border: 1px solid var(--border);
