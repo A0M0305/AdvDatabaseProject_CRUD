@@ -35,3 +35,16 @@ Run project
 - This will kick start nodemon and you will have a link to the localhost page 5033.
 - press ctrl and rightclick to open up the webpage
 
+Version Updates
+Version 1.00
+- Creation of the users webpage.
+- Clear structure of the page and table layout.
+- CSS added and developed to color and structure.
+
+Version 1.10
+- Creation of main title header
+- Decision on page name "AOSystems"
+- Added the name title to the header design
+
+Version 1.20
+- 
