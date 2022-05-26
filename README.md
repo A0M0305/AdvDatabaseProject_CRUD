@@ -1,18 +1,11 @@
 # AdvDatabaseProject_CRUD
-Advanced Database Project looking at CRUD operations.
-        "This assessment requires you to create, test, and deploy, a proof-of-concept data-driven full stack web- application. The application should either help make sense of existing data set(s) or solve a problem in your work or social life. If you choose the former, you could scrape data, use data from a society or workplace, or find one or more data sets from Kaggle. If you are solving a life/work problem, you may have noticed an
-        ineffective process that needs to be improved or digitized.
-
-        You have the freedom to develop an application of your choice; however, you should ensure the following:
-
-        The application should be full stack. While most will use node for the back end, you are free to use any technology stack. However, regardless of the technology you use, you should have a web-based front facing interface.
-
-        Your application should expose create, read, update and delete (CRUD) operations on one or more databases. The type of database(s) you use, is a free choice. Further to this, you may combine more than one database. You will need to justify your choices in your documentation, this is very important."
-
-This is an updated version from AdvDatabaseProject.
-Due to further understanding of the course and concept from OOP I am looking to structure this development in a more professional manner.
-
-Installations
+## Introduction
+As part of my job as system administrator I have a responsibility of the daily management of our Cinema software “Vista”. As I administrate the different level of databases one of my struggles is the management of a rational database which requires separating the data. Which in term requires information to be stored in different areas of the program.
+This can be time consuming as requires lots of opening, closing different windows to manage a user or item.
+To solve this issue, I want to create a much simpler program that allows me to access and view all information as a User Management system minimising the closing of windows.
+## System Overview
+### Backend
+#### Installations
 - nodeJs
 - express
 - mongoose - allows me to access my MongoBD
@@ -22,29 +15,14 @@ Installations
 - body-parser - this allows us to serialise the data and access form data using body properties
 - dot env - this modules allows me to seperate the "secret" from the source code. This is for future development of the project where I can have other people collaborating with me but not sharing passcodes, just the code.
 - A module I came across from research the allows easier request access to the library in express applications
-
-Project Structure
+#### Project Structure
 - Using the MVC (model, view, controller) pattern design
 - This helps separate the the application data and the business logic from the views.
 - The controller mediates between the model and view
     - Model folder contains the MongoDB data. This will perform the data validation, process data, create mongo scheme
     - Controller folder will deal with the user request for resources from the server. This will contain the functions for the resources needed
-
-Run project
+#### Run project
 - Type on terminal "npm start".
 - This will kick start nodemon and you will have a link to the localhost page 5033.
 - press ctrl and rightclick to open up the webpage
 
-Version Updates
-Version 1.00
-- Creation of the users webpage.
-- Clear structure of the page and table layout.
-- CSS added and developed to color and structure.
-
-Version 1.10
-- Creation of main title header
-- Decision on page name "AOSystems"
-- Added the name title to the header design
-
-Version 1.20
-- 
