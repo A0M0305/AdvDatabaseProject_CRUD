@@ -2,10 +2,12 @@
 ## Introduction
 As part of my job as system administrator I have a responsibility of the daily management of our Cinema software “Vista”. As I administrate the different level of databases one of my struggles is the management of a rational database which requires separating the data. Which in term requires information to be stored in different areas of the program.
 This can be time consuming as requires lots of opening, closing different windows to manage a user or item.
+
 To solve this issue, I want to create a much simpler program that allows me to access and view all information as a User Management system minimising the closing of windows.
 ## System Overview
 ### Backend
-#### Installations
+#### Dependencies
+![](2022-05-26-10-38-30.png)
 - nodeJs
 - express
 - mongoose - allows me to access my MongoBD
@@ -25,4 +27,12 @@ To solve this issue, I want to create a much simpler program that allows me to a
 - Type on terminal "npm start".
 - This will kick start nodemon and you will have a link to the localhost page 5033.
 - press ctrl and rightclick to open up the webpage
+### Front End
 
+## Key Design Decisions
+
+## Database Design
+
+## Security and Scalability
+
+## Conclusions
