@@ -34,7 +34,11 @@ As we require access to this data from several. unknown, IP Address' we can set 
 
 ![Network Access](assets/md/NeworkAccess_IP.png)
 
-Following through the next step to connecting to MongoDB, from Visual Studios, is to write up the code. 
+Following through the next step to connecting to MongoDB, from Visual Studios, is to write up the code. The dependencies that is required to access MongoDB is "Mongoose".
+
+![Mongoose](assets/md/MongoDB_Mongoose.png)
+
+
 
 ##### Views
 
