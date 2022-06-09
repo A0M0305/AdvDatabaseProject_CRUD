@@ -7,7 +7,6 @@ exports.homeRoutes=(req,res) => {
     //making a GET request from MongoDB users
     axios.get('http://localhost:5033/api/users')
         .then(function(response){
-            console.log(response.data)
             res.render("users",{users:response.data});
         })
         .catch(err =>{
