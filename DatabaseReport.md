@@ -34,12 +34,19 @@ As we require access to this data from several. unknown, IP Address' we can set 
 
 ![Network Access](assets/md/NeworkAccess_IP.png)
 
-Following through the next step to connecting to MongoDB, from Visual Studios, is to write up the code. The dependencies that is required to access MongoDB is "Mongoose".
+Following through the next step to connecting to MongoDB, from Visual Studios, is to write up the code. The dependencies that is required to access MongoDB is "Mongoose". Below you can see an image of this code where we have successfully connected to MongoDB.
 
 ![Mongoose](assets/md/MongoDB_Mongoose.png)
 
+One of the key aspects I always try to incorporate is the log in of information. Line 5 on the code just does that. Once we have successfully connected and found this db it will inform you on the terminal, and if it fails this will also acknowledge in line 8.
 
+Looking at Line 4 of the code, you will see that we are directing this to an env file. Using a dotenv file is a form of security where you would store secret information that is for and stored on your computer. In this case this is where I would hold my private admin name and password for my eyes only.
+If this was to be a group project, then each individual would require to have their own personal dotenv file due to the sensitivity. (Line 3)
+
+![mongo_uri](assets/md/Mongo_URI.png)
 
 ##### Views
+
+
 
 ##### Controller
