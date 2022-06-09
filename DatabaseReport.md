@@ -126,6 +126,11 @@ Finally the final feature I have available for this is the ability to scale down
 
 ![ScaledDown](assets/md/FrontEnd_HomepageScaleDown.png)
 
+Having considered that the future is mobile, its important that the system must incorporate this to allow easy use and keep to the same standard as what a desktop can do and have.
+
+### Interface Design
+![InterfaceDesign](assets/md/FrontEnd_InterfaceDesign.png)
+
 
 
 ## Security and Scalability
