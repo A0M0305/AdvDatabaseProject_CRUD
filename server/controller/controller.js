@@ -14,7 +14,6 @@ exports.create=(req,res)=>{
         usergroup: req.body.usergroup,
         userlang: req.body.userlang,
         username: req.body.username,
-        password: req.body.password,
         area: req.body.area,
         status: req.body.status
     })

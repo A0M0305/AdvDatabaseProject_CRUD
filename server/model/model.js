@@ -21,14 +21,6 @@ var schema=new mongoose.Schema({
         type:String,
         require
     },
-    password:{
-        type:String,
-        require
-    },
-    userpin:{
-        type:String,
-        require
-    },
     area:{
         type:String,
         require
