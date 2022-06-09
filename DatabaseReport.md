@@ -18,9 +18,7 @@ To support me with my assignment I required to installed a few dependencies to h
 - Body-parse
 - dot env
 
-### Project Structure
-
-#### Model - View - Controller Framework
+#### Project Structure - MVC
 Using the MVC structure we are able to separate the application into three logical components: the model, the view and the controller. These components are built to handle specific developments of the application. This structure is is frequently used as an industry-standard web development framework to create scalable projects.
 
 ![MVC Model](assets/md/ModelViewController.png "MVC Model")
@@ -105,6 +103,30 @@ This in turn is followed by updating. As part of read, when the user clicks to e
 Finally we handle the delete. 
 
 ![delete](assets/md/Controller_Delete.png)
+
+### Front End
+#### Design
+The key concept of this system is that we are trying to make things more efficient. Keep things in one place. As per the [`introduction`](#introduction). But as well as we want things smooth.
+
+![homepage](assets/md/FrontEnd_Homepage.png "homepage")
+
+The key feature you will find within the design is the business title and the sooth colours. As a business that provides a system its important that this stands out and as well provides some sort of confidence, and this can only be achieved with the right features and design. Another factor that must be considered is the environment where this system is to be used, we know the system is being used in a very customer focused environment, stress level will be high and will need to consider that a soothing pastel color like lavender purple help sooth that tension.
+
+We also see that the key buttons such as the New user, Edit User and Deleting a user is separated with a distance. In a fast paced environment a user may be trying to get an update quickly yet they pressed the delete button by accident. Though we have an extra step to ask "are you sure?",
+
+![are you sure](assets/md/FrontEnd_HomepageAreYouSure.png)
+
+this can become a nuisance and annoyance when you have this issue popping up.
+
+Another key feature we have taken into account, is the highlight row. Our main background consists of the color white, not very good when looking at a list of names but a very neutral color for the user. When the user is hovers the mouse pointer over the the list this will transition to a color. And since its infront of a white color this will pop out more.
+
+![RowColor](assets/md/FrontEnd_HomepageRowColor.png)
+
+Finally the final feature I have available for this is the ability to scale down to a mobile form factor. This is very useful for when the user want to use this on the go.
+
+![ScaledDown](assets/md/FrontEnd_HomepageScaleDown.png)
+
+
 
 ## Security and Scalability
 ### Router
