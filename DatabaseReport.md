@@ -102,11 +102,14 @@ This in turn is followed by updating. As part of read, when the user clicks to e
 
 ![update](assets/md/Controller_Update.png)
 
+Finally we handle the delete. 
 
-
-
-
-
+![delete](assets/md/Controller_Delete.png)
 
 ## Security and Scalability
 ### Router
+### Security
+Security is enhanced when sites use APIs. Whenever you send a request, you aren’t directly linked to a server. You send small amounts of information, the API delivers it, and the server sends it back. This minimizes the risk of a breach or someone accessing the backend of a server.
+
+### Scalability
+APIs allow scalability and flexibility when expanding your store’s catalog, security, or data needs. Your store can grow at a faster rate when you don’t have to factor in new code for every single product or user.

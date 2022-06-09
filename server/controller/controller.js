@@ -109,5 +109,4 @@ exports.delete=(req,res)=>{
             message:err.message || "Couldn't delete the user."
         });
     });
-
 }
