@@ -28,7 +28,7 @@ Using the MVC structure we are able to separate the application into three logic
 ##### Model
 The model looks at the data, for this project MongoDB is the data storage client where we create, write, edit and delete to.
 ![MongoDB](assets/md/MongoDB_Data.png "Mongo Database")
-Connecting the the application is handled by the [`Controller`](####Controller). One of the reason as why MongoDB is a suitable application is due to the ability to connect directly as a host, through suitable providers. This format of availability is used via MongoDB Atlas. A more simple tool to use, where the UI is more friendlier to the eye is MongoDB Compass.
+Connecting the the application is handled by the [`Controller`](#Controller). One of the reason as why MongoDB is a suitable application is due to the ability to connect directly as a host, through suitable providers. This format of availability is used via MongoDB Atlas. A more simple tool to use, where the UI is more friendlier to the eye is MongoDB Compass.
 
 As this project is based of Atlas, to allow access to the database we require to adjust another security feature that MongoDB provides. Network Access. We this can be adjusted in the security/network section and can add that only specific IP Address can access. Suitable when working on a private project.
 
@@ -88,3 +88,25 @@ To start the controller requires to bring forward the model that we are using fr
 
 ![model](assets/md/Controller_ImportModel.png)
 
+Line 1 defines that this page requires the information from the [`model`](#Model) from its directory.
+
+![create](assets/md/Controller_Create.png)
+
+We can now look at creating, the code is based of the schema from the model and once the fields have been filled then the role of this controller is to send the data to the [`router`](#router) from the webpage.
+
+With data now available in the database, the key responsibility of the code below is be able to pull up and read the data that is available and list them in the [`homepage`](#homepage)
+
+![read](assets/md/Controller_Read.png)
+
+This in turn is followed by updating. As part of read, when the user clicks to edit the file, this will direct them to a form with a read information already available to be edited. Once they have done the required update, in clicking save this will direct them to the [`router`](#router) then to the database.
+
+![update](assets/md/Controller_Update.png)
+
+
+
+
+
+
+
+## Security and Scalability
+### Router

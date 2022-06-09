@@ -61,9 +61,7 @@ exports.find=(req,res)=>{
             message:err.message || "Couldn't find this person"
         })
     })
-    }
-
-    
+    }  
 }
 
 //this is to update and save new user on MongoDB
@@ -89,7 +87,6 @@ exports.update=(req,res)=>{
                 message:err.message || "Couldn't update the user"
             })
         })
-
 }
 
 //this is to delete users on MongoDB
