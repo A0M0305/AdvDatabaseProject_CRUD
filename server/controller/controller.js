@@ -11,12 +11,12 @@ exports.create=(req,res)=>{
     const user = new Userdb({
         name: req.body.name,
         lname: req.body.lname,
-        usergroup: req.body.usergroup,
-        userlang: req.body.userlang,
+        userno: req.body.userno,
         username: req.body.username,
         area: req.body.area,
         status: req.body.status
     })
+
     //to save the new user in the database
     user
         .save(user)
@@ -47,7 +47,7 @@ exports.find=(req,res)=>{
         })
         .catch(err =>{
             res.status(500).send({
-                message:err.message || "Couldnt find this person"
+                message:err.message || "Couldn't find this person"
             })
         })
     }
@@ -58,7 +58,7 @@ exports.find=(req,res)=>{
     })
     .catch(err =>{
         res.status(500).send({
-            message:err.message || "Couldnt find this person"
+            message:err.message || "Couldn't find this person"
         })
     })
     }
@@ -86,7 +86,7 @@ exports.update=(req,res)=>{
         })
         .catch(err =>{
             res.status(500).send({
-                message:err.message || "Couldnt update the user"
+                message:err.message || "Couldn't update the user"
             })
         })
 
@@ -109,7 +109,7 @@ exports.delete=(req,res)=>{
     })
     .catch(err =>{
         res.status(500).send({
-            message:err.message || "Couldnt delete the user."
+            message:err.message || "Couldn't delete the user."
         });
     });
 
