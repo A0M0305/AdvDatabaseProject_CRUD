@@ -1,4 +1,11 @@
 # Advanced CRUD Database Project
+
+##### Author
+    Alberto Orlando Mafla Prado 
+[Web Application](http://localhost:5033/)
+
+[GitHub Repository](https://github.com/A0M0305/AdvDatabaseProject_CRUD.git)
+
 ## Introduction
 As part of my job as system administrator I have a responsibility of the daily management of our Cinema software “Vista”. As I administrate the different level of databases one of my struggles is the management of a rational database which requires separating the data. Which in term requires information to be stored in different areas of the program.
 This can be time consuming as requires lots of opening, closing different windows to manage a user or item.
@@ -131,12 +138,21 @@ Having considered that the future is mobile, its important that the system must 
 ### Interface Design
 ![InterfaceDesign](assets/md/FrontEnd_InterfaceDesign.png)
 
-
+Keeping to the main concept of simplicity, the application is based of 3 primary templates. The primary template will house the list that is read from the database. When selecting "new user", this will lead to a second template that allows you to write to the database. Back at the home screen, if you select "edit user" this will open the third template that reads from the database to show the user details and then you update the database with what you have written.
+To delete a user we do not require as this is an action on the homepage.
 
 ## Security and Scalability
 ### Router
+As a measure of security I have added APIs into the mix. Once you have an understanding on how this works
+
 ### Security
 Security is enhanced when sites use APIs. Whenever you send a request, you aren’t directly linked to a server. You send small amounts of information, the API delivers it, and the server sends it back. This minimizes the risk of a breach or someone accessing the backend of a server.
 
 ### Scalability
-APIs allow scalability and flexibility when expanding your store’s catalog, security, or data needs. Your store can grow at a faster rate when you don’t have to factor in new code for every single product or user.
+Working with APIs its a lot easier to scale up the project to allow more info to pass through via a secure key. And requires less routes to be created as well as new coding which will overlay the main code.
+
+## Conclusion 
+Referring back to my introduction I was looking to create a system what would be simple, fast, and minimizes the amount of windows needed to view as much information.
+The reality is that this is the direction the application going with a minimalistic view that is prepped for future.
+Unfortunately due to time constraints project at works I was not able to create a logging screen for an administrator. Though even with this setup I would be using API links as this in itself is a security function that is the core of my application.
+As in a scalability point I could assign my project to a third party with partial access via my API
