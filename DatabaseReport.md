@@ -143,7 +143,8 @@ To delete a user we do not require as this is an action on the homepage.
 
 ## Security and Scalability
 ### Router
-As a measure of security I have added APIs into the mix. Once you have an understanding on how this works
+As a measure of security I have added APIs into the mix. Once you have an understanding on how this works we are able to create a flow that would support how the system interacts via the API
+![api flow](assets/md/backend_APIs.png)
 
 ### Security
 Security is enhanced when sites use APIs. Whenever you send a request, you aren’t directly linked to a server. You send small amounts of information, the API delivers it, and the server sends it back. This minimizes the risk of a breach or someone accessing the backend of a server.
@@ -153,6 +154,6 @@ Working with APIs its a lot easier to scale up the project to allow more info to
 
 ## Conclusion 
 Referring back to my introduction I was looking to create a system what would be simple, fast, and minimizes the amount of windows needed to view as much information.
-The reality is that this is the direction the application going with a minimalistic view that is prepped for future.
+The reality is that this is the direction the application going with a minimalist's view that is prepped for future.
 Unfortunately due to time constraints project at works I was not able to create a logging screen for an administrator. Though even with this setup I would be using API links as this in itself is a security function that is the core of my application.
 As in a scalability point I could assign my project to a third party with partial access via my API
